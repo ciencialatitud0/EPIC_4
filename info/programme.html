@@ -1,0 +1,1014 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Preliminary Programme &#8212; EPIC IV</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'info/programme';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Practical Information" href="practical-information.html" />
+    <link rel="prev" title="Participants" href="participants.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="../intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="EPIC IV - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="EPIC IV - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    IV Escuela de Programación para Investigación Científica (EPIC)
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">General Information</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="dates.html">Important dates</a></li>
+<li class="toctree-l1"><a class="reference internal" href="registration.html">Requirements and registration</a></li>
+<li class="toctree-l1"><a class="reference internal" href="speakers.html">Tutors and speakers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="participants.html">Participants</a></li>
+
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Preliminary Programme</a></li>
+
+
+
+
+
+<li class="toctree-l1"><a class="reference internal" href="practical-information.html">Practical Information</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/executablebooks/jupyter-book" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Finfo/programme.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/info/programme.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Preliminary Programme</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Preliminary Programme</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#day-1-monday-14-august-2023">Day 1: Monday 14 August 2023</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#computational-physics-tools-and-data-analysis">Computational Physics Tools and Data Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#morning-session-08h00-10h00">Morning session (08h00 - 10h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-08h15-registration">08h00 - 08h15: Registration</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h15-08h40-welcome-to-epic3-and-a-short-introduction-from-pwf">08h15 - 08h40: Welcome to EPIC3 and a short introduction from PWF</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-09h20-helga-denes-phd-yachay-tech-ecuador-the-frontiers-of-computational-physics">08h40 - 09h20: Helga Dénes, PhD (Yachay Tech, Ecuador) - The frontiers of Computational Physics</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-10h00-clara-rojas-phd-yachay-tech-ecuador-analysis-of-the-generalized-starobinsky-inflationary-model">09h20 - 10h00: Clara Rojas, PhD (Yachay Tech, Ecuador) - Analysis of the generalized Starobinsky inflationary model</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#coffee-break-10h00-10h40">Coffee Break (10h00 - 10h40)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#midday-session-10h40-12h20">Midday session (10h40 - 12h20)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lunch-break-12h20-14h20">Lunch Break (12h20 - 14h20)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#afternoon-session-14h20-16h00">Afternoon session (14h20 - 16h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-16h00-wladimir-banda-barragan-phd-yachay-tech-ecuador-hands-on-tutorial-2-fast-fourier-transform-methods-for-fluid-dynamics">14h00 - 16h00: Wladimir Banda-Barragán, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 2: Fast Fourier Transform methods for fluid dynamics</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#day-2-tuesday-15-august-2023">Day 2: Tuesday 15 August 2023</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#machine-learning-for-physics-and-life-sciences">Machine Learning for Physics and Life Sciences</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Morning session (08h00 - 10h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-08h40-andres-morales-navarrete-phd-u-konstanz-germany-using-deep-learning-to-understand-fish-development">08h00 - 08h40: Andrés Morales Navarrete, PhD (U. Konstanz, Germany)  - Using deep learning to understand fish development</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-10h00-gustavo-loachamin-msc-puc-rio-de-janeiro-brasil-the-framework-root-cern-and-its-use-in-particle-physics">09h20 - 10h00: Gustavo Loachamin, MSc (PUC Rio de Janeiro, Brasil) - The framework ROOT CERN and its use in particle physics</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Coffee Break (10h00 - 10h40)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Midday session (10h40 - 12h20)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-12h20-andres-morales-navarrete-phd-u-konstanz-germany-hands-on-tutorial-3-introduction-to-bioimage-analisys-with-python">10h40 - 12h20: Andrés Morales-Navarrete, PhD (U. Konstanz, Germany) - Hands-on Tutorial 3: Introduction to BioImage Analisys with Python</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Lunch Break (12h20 - 14h20)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">Afternoon session (14h20 - 16h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-16h00-andres-morales-navarrete-phd-u-konstanz-germany-hands-on-tutorial-4-deep-learning-for-analisys-and-modelling-of-biological-systems">14h00 - 16h00: Andrés Morales-Navarrete, PhD (U. Konstanz, Germany) - Hands-on Tutorial 4: Deep learning for analisys and modelling of biological systems</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#day-3-wednesday-16-august-2023">Day 3: Wednesday 16 August 2023</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#materials-science-and-high-energy-physics">Materials Science and High-energy Physics</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">Morning session (08h00 - 10h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-10h00-edison-salazar-phd-u-leiden-netherlands-hands-on-tutorial-5-excited-state-dynamics-tully-scheme-implementation-and-models-live-virtual">08h00 - 10h00: Edison Salazar, PhD (U. Leiden, Netherlands) - Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models (live virtual)</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">Coffee Break (10h00 - 10h40)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">Midday session (10h40 - 12h20)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-11h20-nelson-herrera-arauz-phd-uide-ecuador-realidad-historico-astronomica-de-la-linea-ecuatorial-y-la-reedicion-del-experimento-del-geografo-charles-de-la-condamine">10h40 - 11h20: Nelson Herrera Aráuz, PhD (UIDE, Ecuador) - Realidad histórico-astronómica de la línea ecuatorial y la reedición del experimento del geógrafo Charles de La Condamine</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-12h00-diego-fabian-morales-navarrete-phd-yachay-tech-ecuador-modeling-and-estimating-geo-referenced-count-spatial-data-with-excessive-zeros">11h20 - 12h00: Diego Fabián Morales Navarrete, PhD (Yachay Tech, Ecuador) - Modeling and estimating geo-referenced count spatial data with excessive zeros</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">Lunch Break (12h20 - 14h20)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">Afternoon session (14h20 - 16h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-15h10-alejandro-gomez-espinosa-phd-eth-switzerland-hands-on-tutorial-4-intro-to-particle-physics-analysis-with-python">14h20 - 15h10: Alejandro Gómez Espinosa, PhD (ETH, Switzerland) - Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h10-16h00-alejandro-gomez-espinosa-phd-eth-switzerland-hands-on-tutorial-5-how-to-discover-particles-in-lhc-data-using-python">15h10 - 16h00: Alejandro Gómez Espinosa, PhD (ETH, Switzerland) - Hands-on Tutorial 5:How to discover particles in LHC data using Python</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#evening-session-18h00-20h00">Evening session (18h00 - 20h00)</a></li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#day-4-thursday-17-august-2023">Day 4: Thursday 17 August 2023</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#astrophysics-and-computing">Astrophysics and Computing</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">Morning session (08h00 - 10h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-09h20-helga-denes-phd-yachay-tech-ecuador-hands-on-tutorial-4-how-to-analyse-3d-astrophysical-data-cubes">08h00 - 09h20: Helga Dénes, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-09h40-roberto-jacome-uide-loxa-smart-a-protoype-of-smart-and-sustainable-city">09h20 - 09h40: Roberto Jácome, UIDE - Loxa Smart, a protoype of smart and sustainable city</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-10h00-milton-palacios-uide-deteccion-de-la-atencion-en-clases-virtuales-a-traves-de-las-acciones-en-el-ordenador">09h40 - 10h00: Milton Palacios, UIDE - Detección de la atención en clases virtuales a través de las acciones en el ordenador</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id12">Coffee Break (10h00 - 10h40)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#midday-session-10h40-12h40">Midday session (10h40 - 12h40)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-11h00-andres-villares-fis-yachay-tech-ecuador-hydrodynamic-shielding-in-galactic-multicloud-outflows">10h40 - 11h00: Andrés Villares, Fís (Yachay Tech, Ecuador) - Hydrodynamic shielding in galactic multicloud outflows</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-12h40-contributed-talks">11h00 - 12h40: Contributed talks</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id13">Lunch Break (12h20 - 14h20)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id14">Afternoon session (14h20 - 16h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-16h00-campus-tour-yachay-tech">14h20 - 16h00: Campus Tour Yachay Tech</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#day-5-friday-18-august-2023">Day 5: Friday 18 August 2023</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#epic-3-student-presentations-and-diversity-in-science">EPIC 3 Student Presentations and Diversity in Science</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id15">Morning session (08h00 - 10h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-10h00-student-group-talks">08h00 - 10h00: Student group talks</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id16">Coffee Break (10h00 - 10h40)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#midday-session-10h40-12h30">Midday session (10h40 - 12h30)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-11h30-mini-presentations-from-female-scientists">10h40 - 11h30: Mini-presentations from Female Scientists</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h30-12h20-women-in-stem-forum">11h30 - 12h20: Women in STEM Forum</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-12h30-concluding-remarks-wrap-up">12h20 - 12h30: Concluding Remarks &amp; Wrap-up</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#good-bye-lunch-12h30-14h00">Good-Bye Lunch (12h30 - 14h00)</a></li>
+</ul>
+</li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="preliminary-programme">
+<h1>Preliminary Programme<a class="headerlink" href="#preliminary-programme" title="Permalink to this heading">#</a></h1>
+<p>We will use two classrooms for EPIC 3, which are located in different buildings:</p>
+<p><strong>- For the talks:</strong> SEPA-A06, 1st floor, Senescyt building (<strong>not the ground floor</strong>)</p>
+<p><strong>- For the tutorials:</strong> LAB-PB09, ground floor, E2-E3 building</p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="day-1-monday-14-august-2023">
+<h1>Day 1: Monday 14 August 2023<a class="headerlink" href="#day-1-monday-14-august-2023" title="Permalink to this heading">#</a></h1>
+<section id="computational-physics-tools-and-data-analysis">
+<h2>Computational Physics Tools and Data Analysis<a class="headerlink" href="#computational-physics-tools-and-data-analysis" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="morning-session-08h00-10h00">
+<h2>Morning session (08h00 - 10h00)<a class="headerlink" href="#morning-session-08h00-10h00" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom SEPA-A06, 1st floor, Senescyt building</p>
+<section id="h00-08h15-registration">
+<h3>08h00 - 08h15: Registration<a class="headerlink" href="#h00-08h15-registration" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="h15-08h40-welcome-to-epic3-and-a-short-introduction-from-pwf">
+<h3>08h15 - 08h40: Welcome to EPIC3 and a short introduction from PWF<a class="headerlink" href="#h15-08h40-welcome-to-epic3-and-a-short-introduction-from-pwf" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="h40-09h20-helga-denes-phd-yachay-tech-ecuador-the-frontiers-of-computational-physics">
+<h3>08h40 - 09h20: Helga Dénes, PhD (Yachay Tech, Ecuador) - The frontiers of Computational Physics<a class="headerlink" href="#h40-09h20-helga-denes-phd-yachay-tech-ecuador-the-frontiers-of-computational-physics" title="Permalink to this heading">#</a></h3>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
+<p><strong>Abstract:</strong>
+Today computers and computation is part of everyday life and one of the essential components of science. To name some examples, our mobile phones are more sophisticated computers than the first PCs, our IDs tend to be digital, everyone has emails and most people have mobile banks. In the last few months the new artificial intelligence (AI) softwares have generated much attention, however AI has been behind many computer applications for several years. Computation in the sciences has had a long history since the planning of the first Moon Landing in the 1960 to todays most advanced supercomputers. One of the obvious fields of scientific computing is the more and more complex theoretical computer simulations that drive the development of supercomputers. Another important fields are the computers that power the instruments of experimental research. For example, the brains of modern radio telescopes and large particle accelerators are supercomputers as well. In addition, to taking and generating data it is also essential to have the tools to analyse, visualise and disseminate this data. Having a good knowledge of computing these days can open the doors for working in sciences, in industry and in public offices.</p>
+<p><strong>About the Speaker:</strong> PhD in Astrophysics from Swinburne University of Technology.</p>
+</section>
+<section id="h20-10h00-clara-rojas-phd-yachay-tech-ecuador-analysis-of-the-generalized-starobinsky-inflationary-model">
+<h3>09h20 - 10h00: Clara Rojas, PhD (Yachay Tech, Ecuador) - Analysis of the generalized Starobinsky inflationary model<a class="headerlink" href="#h20-10h00-clara-rojas-phd-yachay-tech-ecuador-analysis-of-the-generalized-starobinsky-inflationary-model" title="Permalink to this heading">#</a></h3>
+<p><img alt="Clara Rojas - Clara Inés Rojas Cely" src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/fd23e704-7221-41ed-843f-106ca5bae0f5" /></p>
+<p><strong>Abstract:</strong>
+In this work we solved the equation of scalar and tensor perturbations for the generalized Starobinsky inflationary model using the improved uniform approximation method and the phase-integral method up to third-order in deviation.  We  compare our results with the  numerical integration.  We have  obtained that  both semiclassical methods reproduce the scalar power spectra <span class="math notranslate nohighlight">\(P\)</span>, the scalar spectral index <span class="math notranslate nohighlight">\(n_S\)</span>,  and the tensor-to-scalar ratio <span class="math notranslate nohighlight">\(r\)</span>.  Also we present our results in the <span class="math notranslate nohighlight">\((n_S,r)\)</span> plane.</p>
+<p><strong>About the Speaker:</strong> Clara Rojas tiene un Ph. D. en Ciencias mención Física en el Centro de Física del IVIC (Venezuela). Intereses: Cosmología Inflacionaria y Mecánica Cuántica Relativist</p>
+</section>
+</section>
+<section id="coffee-break-10h00-10h40">
+<h2>Coffee Break (10h00 - 10h40)<a class="headerlink" href="#coffee-break-10h00-10h40" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom SEPA-A06, 1st floor, Senescyt building</p>
+</section>
+<section id="midday-session-10h40-12h20">
+<h2>Midday session (10h40 - 12h20)<a class="headerlink" href="#midday-session-10h40-12h20" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom LAB-PB09, E2-E3 building 1st floor</p>
+<p><strong>10h40 - 12h20: Wladimir Banda-Barragán, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 1: Monte Carlo simulations for physics</strong></p>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/70d41b1e-c464-4f63-be3c-1873bf8f1933" alt="alt text" width="400px">
+<p><strong>Abstract:</strong>
+In this tutorial you will learn to carry our Monte Carlo simulations in python with the purpose of studying physical systems. There will be guided examples on how to carry out Monte Carlo simulations, and you will have time to work on a proposed problem too.</p>
+<p><strong>About the Speaker:</strong> Wladimir Banda-Barragan tiene un Ph. D. en Astronomía y Astrofísica de Australian National University</p>
+</section>
+<section id="lunch-break-12h20-14h20">
+<h2>Lunch Break (12h20 - 14h20)<a class="headerlink" href="#lunch-break-12h20-14h20" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="afternoon-session-14h20-16h00">
+<h2>Afternoon session (14h20 - 16h00)<a class="headerlink" href="#afternoon-session-14h20-16h00" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom LAB-PB09, E2-E3 building 1st floor</p>
+<section id="h00-16h00-wladimir-banda-barragan-phd-yachay-tech-ecuador-hands-on-tutorial-2-fast-fourier-transform-methods-for-fluid-dynamics">
+<h3>14h00 - 16h00: Wladimir Banda-Barragán, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 2: Fast Fourier Transform methods for fluid dynamics<a class="headerlink" href="#h00-16h00-wladimir-banda-barragan-phd-yachay-tech-ecuador-hands-on-tutorial-2-fast-fourier-transform-methods-for-fluid-dynamics" title="Permalink to this heading">#</a></h3>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/70d41b1e-c464-4f63-be3c-1873bf8f1933" alt="alt text" width="400px">
+<p><strong>Abstract:</strong>
+In this tutorial you will learn to use Fast Fourier Transform algorithms in python to solve parabolic and hyperbolic partial differential equations. There will be guided examples on how to solve the fluid dynamics equations and you will have the chance to work on proposed problems too.</p>
+<p><strong>About the Speaker:</strong> Wladimir Banda-Barragan tiene un Ph. D. en Astronomía y Astrofísica de Australian National University</p>
+</section>
+</section>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="day-2-tuesday-15-august-2023">
+<h1>Day 2: Tuesday 15 August 2023<a class="headerlink" href="#day-2-tuesday-15-august-2023" title="Permalink to this heading">#</a></h1>
+<section id="machine-learning-for-physics-and-life-sciences">
+<h2>Machine Learning for Physics and Life Sciences<a class="headerlink" href="#machine-learning-for-physics-and-life-sciences" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="id1">
+<h2>Morning session (08h00 - 10h00)<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom SEPA-A06, 1st floor, Senescyt building)</p>
+<section id="h00-08h40-andres-morales-navarrete-phd-u-konstanz-germany-using-deep-learning-to-understand-fish-development">
+<h3>08h00 - 08h40: Andrés Morales Navarrete, PhD (U. Konstanz, Germany)  - Using deep learning to understand fish development<a class="headerlink" href="#h00-08h40-andres-morales-navarrete-phd-u-konstanz-germany-using-deep-learning-to-understand-fish-development" title="Permalink to this heading">#</a></h3>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/df69db30-684a-42b0-86b3-08e466b93d25" alt="alt text" width="400px">
+<p><strong>Abstract:</strong></p>
+<p><strong>About the Speaker:</strong></p>
+<p><strong>08h40 - 09h20: Zenaida Castillo, PhD (Yachay Tech, Ecuador) - Pseudospectra of matrices and its computation</strong></p>
+<p><strong>Abstract:</strong>
+The Pseudospectra is a powerful tool to analyze the behavior of dynamic systems associated to non-normal matrices. Studies and applications have increased in the last decades, thus, its efficient computation has become of interest for the scientific community. In the large scale setting, different approaches have been proposed, some of them based on projection on Krylov subspaces. In this talk, we will present a scheme for the parallel computation of the Pseudospectra, based on a domain decomposition of the interest region into subregions that can be assigned to a set of processors in order to accelerate the computation.</p>
+<p><strong>About the Speaker:</strong>
+Zenaida Castillo (PhD): Profesor/Investigador con formación inicial en Ciencias Computacionales, ha obtenido títulos de maestría en Matemáticas Aplicadas y también en Ciencias de la Computación, y finalmente un PhD en Matemáticas aplicadas y Computacionales, otorgado por la Universidad de Rice, en USA. Tiene 25 años de experiencia en la docencia en Educación Superior, y ha ocupado diferentes cargos en la Academia. Su trabajo de investigación gira en torno a la implementación eficiente de métodos para el cálculo numérico, en particular para el cálculo de autovalores y autovectores de matrices de gran magnitud.</p>
+</section>
+<section id="h20-10h00-gustavo-loachamin-msc-puc-rio-de-janeiro-brasil-the-framework-root-cern-and-its-use-in-particle-physics">
+<h3>09h20 - 10h00: Gustavo Loachamin, MSc (PUC Rio de Janeiro, Brasil) - The framework ROOT CERN and its use in particle physics<a class="headerlink" href="#h20-10h00-gustavo-loachamin-msc-puc-rio-de-janeiro-brasil-the-framework-root-cern-and-its-use-in-particle-physics" title="Permalink to this heading">#</a></h3>
+<p><strong>Abstract:</strong>
+Data analysis is a key component of experimental physics, this is why the knowledge of frameworks and programming languages is necessary for physicists. In particle physics for example, the ROOT framework is widely used because of its graphical interface for interactive analysis and its capacity to store and analyze large sets of data of more than 1 exabyte. In this talk, I will be introducing briefly the functionality of ROOT and relating it to my own research: the amplitude analysis of three-body decays.</p>
+<p><strong>About the Speaker:</strong>
+I did my undergraduate studies at the University of British Columbia in Vancouver, Canada with a scholarship from the Ecuadorian government. At UBC, I obtained the degree of Bachelor of Science in Honours Physics with distinction. During my years at UBC, my interest in particle physics started growing and I was involved in a small project for the TREK collaboration, that was testing lepton universality. After I finished, I moved to Brazil and started working for the LHCb collaboration and obtained the Master in Physics in the area of particle physics and fields. My research for the LHCb was focused on the amplitude analysis of a three-body decay.</p>
+</section>
+</section>
+<section id="id2">
+<h2>Coffee Break (10h00 - 10h40)<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom SEPA-A06, 1st floor, Senescyt building</p>
+</section>
+<section id="id3">
+<h2>Midday session (10h40 - 12h20)<a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom LAB-PB09, E2-E3 building 1st floor</p>
+<section id="h40-12h20-andres-morales-navarrete-phd-u-konstanz-germany-hands-on-tutorial-3-introduction-to-bioimage-analisys-with-python">
+<h3>10h40 - 12h20: Andrés Morales-Navarrete, PhD (U. Konstanz, Germany) - Hands-on Tutorial 3: Introduction to BioImage Analisys with Python<a class="headerlink" href="#h40-12h20-andres-morales-navarrete-phd-u-konstanz-germany-hands-on-tutorial-3-introduction-to-bioimage-analisys-with-python" title="Permalink to this heading">#</a></h3>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/df69db30-684a-42b0-86b3-08e466b93d25" alt="alt text" width="400px">
+<p><strong>Abstract:</strong>
+Explanation about bioimages (i.e. fluorescence microscopy), Bioimage analysis example: quantifying cell morphology from 2D fluorescence micrographs, Importing images and plotting images, Logical operators (pixel-wise operations), Intensity Transformation, Filters and Fourier transformations, Segmentation, Extracting data from segmented images (e.g. cell area, elongation).</p>
+<p><strong>About the Speaker:</strong>
+PostDoctoral Researcher - Zerial Group, Max-Planck-Institute of Molecular Cell Biology and Genetics, Dresden - Germany</p>
+</section>
+</section>
+<section id="id4">
+<h2>Lunch Break (12h20 - 14h20)<a class="headerlink" href="#id4" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="id5">
+<h2>Afternoon session (14h20 - 16h00)<a class="headerlink" href="#id5" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom LAB-PB09, E2-E3 building 1st floor</p>
+<section id="h00-16h00-andres-morales-navarrete-phd-u-konstanz-germany-hands-on-tutorial-4-deep-learning-for-analisys-and-modelling-of-biological-systems">
+<h3>14h00 - 16h00: Andrés Morales-Navarrete, PhD (U. Konstanz, Germany) - Hands-on Tutorial 4: Deep learning for analisys and modelling of biological systems<a class="headerlink" href="#h00-16h00-andres-morales-navarrete-phd-u-konstanz-germany-hands-on-tutorial-4-deep-learning-for-analisys-and-modelling-of-biological-systems" title="Permalink to this heading">#</a></h3>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/df69db30-684a-42b0-86b3-08e466b93d25" alt="alt text" width="400px">
+<p><strong>Abstract:</strong>
+Explanation about bioimages (i.e. fluorescence microscopy), Bioimage analysis example: quantifying cell morphology from 2D fluorescence micrographs, Importing images and plotting images, Logical operators (pixel-wise operations), Intensity Transformation, Filters and Fourier transformations, Segmentation, Extracting data from segmented images (e.g. cell area, elongation).</p>
+<p><strong>About the Speaker:</strong>
+PostDoctoral Researcher - Zerial Group, Max-Planck-Institute of Molecular Cell Biology and Genetics, Dresden - Germany</p>
+</section>
+</section>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="day-3-wednesday-16-august-2023">
+<h1>Day 3: Wednesday 16 August 2023<a class="headerlink" href="#day-3-wednesday-16-august-2023" title="Permalink to this heading">#</a></h1>
+<section id="materials-science-and-high-energy-physics">
+<h2>Materials Science and High-energy Physics<a class="headerlink" href="#materials-science-and-high-energy-physics" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="id6">
+<h2>Morning session (08h00 - 10h00)<a class="headerlink" href="#id6" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom LAB-PB09, E2-E3 building 1st floor</p>
+<section id="h00-10h00-edison-salazar-phd-u-leiden-netherlands-hands-on-tutorial-5-excited-state-dynamics-tully-scheme-implementation-and-models-live-virtual">
+<h3>08h00 - 10h00: Edison Salazar, PhD (U. Leiden, Netherlands) - Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models (live virtual)<a class="headerlink" href="#h00-10h00-edison-salazar-phd-u-leiden-netherlands-hands-on-tutorial-5-excited-state-dynamics-tully-scheme-implementation-and-models-live-virtual" title="Permalink to this heading">#</a></h3>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/95609cc0-3c23-40fa-91d0-222cc00e4190" alt="alt text" width="400px">
+<p><strong>Abstract:</strong>
+Photoinduced processes play a crucial role in different fields of science, for example, the photoisomerization of the retinal chromophore or the synthesis of vitamin D3. Additionally, they are crucial in the development of new technologies such as molecular electronic devices which can be controlled by light. These processes are governed mainly by nonadiabatic transitions which are radiationless electronic transitions between different non-Born-Oppenheimer states along the dynamic of a chemical reaction. In these two lessons, we are going to implement the Tully algorithm in Python to study a simple avoid crossing model as the first approach to a non-adiabatic transition.</p>
+<p><strong>About the Speaker:</strong>
+Postdoctoral researcher - Applied Quantum Algorithms (AQA) group, Lorentz Institute for Theoretical Physics, Leiden University, Leiden, Netherlands</p>
+</section>
+</section>
+<section id="id7">
+<h2>Coffee Break (10h00 - 10h40)<a class="headerlink" href="#id7" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom SEPA-A06, 1st floor, Senescyt building</p>
+</section>
+<section id="id8">
+<h2>Midday session (10h40 - 12h20)<a class="headerlink" href="#id8" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom LAB-PB09, E2-E3 building 1st floor</p>
+<section id="h40-11h20-nelson-herrera-arauz-phd-uide-ecuador-realidad-historico-astronomica-de-la-linea-ecuatorial-y-la-reedicion-del-experimento-del-geografo-charles-de-la-condamine">
+<h3>10h40 - 11h20: Nelson Herrera Aráuz, PhD (UIDE, Ecuador) - Realidad histórico-astronómica de la línea ecuatorial y la reedición del experimento del geógrafo Charles de La Condamine<a class="headerlink" href="#h40-11h20-nelson-herrera-arauz-phd-uide-ecuador-realidad-historico-astronomica-de-la-linea-ecuatorial-y-la-reedicion-del-experimento-del-geografo-charles-de-la-condamine" title="Permalink to this heading">#</a></h3>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/7a96e22e-c3af-4a2f-b31a-71035589cbdf" alt="alt text" width="400px">
+<p><strong>Abstract:</strong>
+Relatos y referencias históricas de las circunstancias e incidencias que llevaron a la creación del metro como unidad de medida de longitud por parte de los académicos de la Mision Geodesica francesa en Quito el año de 1744.</p>
+<p><strong>About the Speaker:</strong>
+Nelson Herrera Aráuz nació en Quito octubre de 1950, realizó sus Estudios secundarios Colegio Central Técnico, estudios superiores en Ingeniería Electrónica en la Escuela Politécnica Nacional; Estudios de Matematica Pura, en la Escuela de Ciencias, de la Universidad Central del Ecuador, Electromecánica; Instituto José Antonio Echeverria La Habana Cuba, Física Universidad de Montpellier Francia. Cuenta con Investigaciones y experiencias científicas en Praga y Varsovia. Estudio teórico - experimentales documentado sobre fenómenos y perturbaciones magnéticas causadas por el eclipse solar del 11 de julio de 1991. Profesor Emérito en Cátedra sustentada por 25 años a la fecha de Matemáticas, Física y Circuitos Digitales en la Escuela de Ingeniería mecánica automotriz, de la Universidad International del Ecuador.</p>
+</section>
+<section id="h20-12h00-diego-fabian-morales-navarrete-phd-yachay-tech-ecuador-modeling-and-estimating-geo-referenced-count-spatial-data-with-excessive-zeros">
+<h3>11h20 - 12h00: Diego Fabián Morales Navarrete, PhD (Yachay Tech, Ecuador) - Modeling and estimating geo-referenced count spatial data with excessive zeros<a class="headerlink" href="#h20-12h00-diego-fabian-morales-navarrete-phd-yachay-tech-ecuador-modeling-and-estimating-geo-referenced-count-spatial-data-with-excessive-zeros" title="Permalink to this heading">#</a></h3>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/3f164b74-cf19-4331-91c4-8dc7c5d1e763" alt="alt text" width="400px">
+<p><strong>Abstract:</strong>
+Modelling spatial data is a challenging task in statistics. In many applications, the observed data can be modelled using Gaussian, skew-Gaussian or even restricted random field models. However, in several fields, such as population genetics, epidemiology, and population dynamics, the data of interest are counts with excess of zeros in some cases, and therefore the mentioned models are not suitable for their analysis. Consequently, there is a need for spatial models that can adequately describe data coming from counting processes and handle the excess of zeros in data.</p>
+<p><strong>About the Speaker:</strong>
+I am a mathematical engineer working on theoretical approaches for modelling spatio-temporal non-gaussian data. I am particularly interested in working on the theoretical and methodological development of space-time stochastic models for non-Gaussian data. I completed an undergraduate program in mathematical engineering at Escuela Politécnica Nacional in Quito-Ecuador. Then, I worked as a researcher and statistician in public and private companies in Ecuador for a few years. In the beginning of 2022, I obtained a Ph.D. degree in Statistics at the Department of Statistics of Pontificia Universidad Católica de Chile. As a doctoral researcher under the supervision of Prof. Mauricio Castro and Prof. Moreno Bevilacqua, I was working on developing novel approaches for modelling spatial and spatio-temporal count data. Additionally, I was part of the Center for the Discovery of Structures in Complex Data MiDas as a PhD student and guest researcher at the Department of Biology at the University of Konstanz. Currently, I am a research professor at Yachay Tech University.</p>
+</section>
+</section>
+<section id="id9">
+<h2>Lunch Break (12h20 - 14h20)<a class="headerlink" href="#id9" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="id10">
+<h2>Afternoon session (14h20 - 16h00)<a class="headerlink" href="#id10" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom LAB-PB09, E2-E3 building 1st floor</p>
+<section id="h20-15h10-alejandro-gomez-espinosa-phd-eth-switzerland-hands-on-tutorial-4-intro-to-particle-physics-analysis-with-python">
+<h3>14h20 - 15h10: Alejandro Gómez Espinosa, PhD (ETH, Switzerland) - Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python<a class="headerlink" href="#h20-15h10-alejandro-gomez-espinosa-phd-eth-switzerland-hands-on-tutorial-4-intro-to-particle-physics-analysis-with-python" title="Permalink to this heading">#</a></h3>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/4e47d7f1-123a-4fb4-9e39-c9196610af78" alt="alt text" width="400px">
+</section>
+<section id="h10-16h00-alejandro-gomez-espinosa-phd-eth-switzerland-hands-on-tutorial-5-how-to-discover-particles-in-lhc-data-using-python">
+<h3>15h10 - 16h00: Alejandro Gómez Espinosa, PhD (ETH, Switzerland) - Hands-on Tutorial 5:How to discover particles in LHC data using Python<a class="headerlink" href="#h10-16h00-alejandro-gomez-espinosa-phd-eth-switzerland-hands-on-tutorial-5-how-to-discover-particles-in-lhc-data-using-python" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+<section id="evening-session-18h00-20h00">
+<h2>Evening session (18h00 - 20h00)<a class="headerlink" href="#evening-session-18h00-20h00" title="Permalink to this heading">#</a></h2>
+<p>18h00 - 20h00: Public talk</p>
+</section>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="day-4-thursday-17-august-2023">
+<h1>Day 4: Thursday 17 August 2023<a class="headerlink" href="#day-4-thursday-17-august-2023" title="Permalink to this heading">#</a></h1>
+<section id="astrophysics-and-computing">
+<h2>Astrophysics and Computing<a class="headerlink" href="#astrophysics-and-computing" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="id11">
+<h2>Morning session (08h00 - 10h00)<a class="headerlink" href="#id11" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom LAB-PB09, E2-E3 building 1st floor)</p>
+<section id="h00-09h20-helga-denes-phd-yachay-tech-ecuador-hands-on-tutorial-4-how-to-analyse-3d-astrophysical-data-cubes">
+<h3>08h00 - 09h20: Helga Dénes, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes<a class="headerlink" href="#h00-09h20-helga-denes-phd-yachay-tech-ecuador-hands-on-tutorial-4-how-to-analyse-3d-astrophysical-data-cubes" title="Permalink to this heading">#</a></h3>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a042b511-6b01-4999-ac91-13b08d20e177" alt="alt text" width="400px">
+<p><strong>Abstract:</strong>
+Brief explanation on astrophysics behind galaxies and their neutral hydrogen (HI content). Reading in fits data cubes (3D spectral line data - HI data of a galaxy). Plotting slices of the 3D data cube and making moment maps. Downloading astronomical images from a database (for the same galaxy as the HI data). Making an overlay of the HI data onto an optical image. Calculating some basic statistics for the spectra. Averaging the spectra for the galaxy. Calculating the HI mass of a galaxy. Fitting a Gaussian to spectra</p>
+<p><strong>About the Speaker:</strong> PhD in Astrophysics from Swinburne University of Technology.</p>
+</section>
+<section id="h20-09h40-roberto-jacome-uide-loxa-smart-a-protoype-of-smart-and-sustainable-city">
+<h3>09h20 - 09h40: Roberto Jácome, UIDE - Loxa Smart, a protoype of smart and sustainable city<a class="headerlink" href="#h20-09h40-roberto-jacome-uide-loxa-smart-a-protoype-of-smart-and-sustainable-city" title="Permalink to this heading">#</a></h3>
+<p><strong>Abstract:</strong>
+This work presents a study that combines vehicle counting and contamination analysis in the city of Loja - Ecuador. The increasing urbanization and traffic congestion in cities have raised concerns about air quality and its impact on public health. Understanding vehicular activity patterns and their contribution to air pollution is crucial for effective urban planning and the implementation of sustainable transportation strategies. The study utilizes a combination of computer vision techniques and sensor data to accurately count vehicles in a traffic intersection. A vehicle detection algorithm is employed to process and obtain vehicle counting in this intersection. The collected data measures include particulate matter (PM2.5, PM10), temperature, and humidity. The study also highlights the impact of seasonal variations on contamination levels and with the help of a time-series predicting algorithm, estimate the values of the mentioned data. The objective of this study is to obtain a low-cost prototype for smart cities that can serve as a valuable resource for city authorities and environmental agencies to design data-driven urban policies. Additionally, the research serves as a foundation for future studies to explore more sophisticated approaches to mitigate vehicle emissions and create sustainable urban environments.</p>
+</section>
+<section id="h40-10h00-milton-palacios-uide-deteccion-de-la-atencion-en-clases-virtuales-a-traves-de-las-acciones-en-el-ordenador">
+<h3>09h40 - 10h00: Milton Palacios, UIDE - Detección de la atención en clases virtuales a través de las acciones en el ordenador<a class="headerlink" href="#h40-10h00-milton-palacios-uide-deteccion-de-la-atencion-en-clases-virtuales-a-traves-de-las-acciones-en-el-ordenador" title="Permalink to this heading">#</a></h3>
+<p><strong>Abstract:</strong>
+TBD</p>
+</section>
+</section>
+<section id="id12">
+<h2>Coffee Break (10h00 - 10h40)<a class="headerlink" href="#id12" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom SEPA-A06, 1st floor, Senescyt building</p>
+</section>
+<section id="midday-session-10h40-12h40">
+<h2>Midday session (10h40 - 12h40)<a class="headerlink" href="#midday-session-10h40-12h40" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom SEPA-A06, 1st floor, Senescyt building</p>
+<section id="h40-11h00-andres-villares-fis-yachay-tech-ecuador-hydrodynamic-shielding-in-galactic-multicloud-outflows">
+<h3>10h40 - 11h00: Andrés Villares, Fís (Yachay Tech, Ecuador) - Hydrodynamic shielding in galactic multicloud outflows<a class="headerlink" href="#h40-11h00-andres-villares-fis-yachay-tech-ecuador-hydrodynamic-shielding-in-galactic-multicloud-outflows" title="Permalink to this heading">#</a></h3>
+<p><strong>Abstract:</strong>
+Galactic winds are multi-phase outflows of energy and matter leaving star-forming galaxies. Emission and absorption line observations reveal that these winds are multiphase and turbulent. They contain molecular, atomic, and ionised components characterized by different densities and temperatures. The hot phase of galactic winds typically encounters interstellar clumps of cold gas and dust clouds. However, the detection of cold gas at significant distances from the centres of galaxies is a mystery given the ease with which cold clouds can be disrupted. Therefore, numerical simulations are essential to comprehend the underlying physical processes behind cold gas survival. In this project, we carry out a suite of 3D hydrodynamical simulations of a supersonic wind interacting with a multi-cloud arrangement of multiple clouds travelling together. We study how radiative cooling and different cloud separation distances influence their evolution. We find that the lifetime of dense and cold material in radiative clouds is longer than in their adiabatic counterparts. This is attributed to the condensation of warm gas, which effectively sustains the dense gas in the flow. When clouds are further apart, they are more likely to generate dynamical instabilities, leading to higher degrees of mixing and dense gas destruction. Conversely, when clouds are closer, the condensation mechanism is particularly important owing to hydrodynamic shielding, which helps to maintain the cold material throughout the entire evolution. The velocity of the clouds decreases as the cloud separation distance decreases, as this arrangement triggers the generation of large column densities. Hydrodynamic shielding and radiative cooling are thus found to be effective in maintaining cold dense gas for extended periods of time.</p>
+<p><strong>About the Speaker:</strong> Físico por la Universidad Yachay Tech</p>
+</section>
+<section id="h00-12h40-contributed-talks">
+<h3>11h00 - 12h40: Contributed talks<a class="headerlink" href="#h00-12h40-contributed-talks" title="Permalink to this heading">#</a></h3>
+<p><strong>- Isabel Balvoa, ESPOCH - Identificación del alineamiento global óptimo para dos genomas del virus de Papiloma Humano</strong></p>
+<p><strong>Abstract:</strong>
+El virus del Papiloma Humano es un virus ADN de doble cadena, miembro de la familia Papollomaviridae. Es un virus que infecta principalmente células epiteliales cutáneas y mucosas. Este virus presenta varios tipos; sin embargo, los tipos HPV16 y HPV18 son considerados de alto riesgo, asociados con cánceres cervicouterinos, a
+nivel mundial es causante del cuarto cáncer más frecuenta en mujeres. La alineación es un proceso para comparar dos secuencias biológicas, en este caso ADN con el objetivo de determinar el grado de similitud. En la presente investigación se utilizaron tres herramientas de alineamiento global, que usan el algoritmo de Needleman-Wunsch, para comparar dos secuencias de genoma del virus del Papiloma Humano, ACCESSION NC_001526 (type 16) y ACCESSION NC_027779 (isolate SE379). Conforme los resultados obtenidos, se determinó que el uso de la herramienta GGSEARCH2SEQ, con la interacción de los parámetros v1, apertura de brecha (–2) y extensión de brecha (-1), presentó los valores más altos de similitud con 50,4%, identidad con 50,4% y un score de 30369.</p>
+<p><strong>- Mayra Tualombo, Yachay Tech - Predicting Dementia Based on Menopause as a Risk Factor Using Variational Autoencoders</strong></p>
+<p><strong>Abstract:</strong>
+There is increasing evidence that menopausal changes can have an impact on women’s cognition and can be a risk factor for the development of dementia. Some studies try to explain the relationship between the predominance of dementia linked with postmenopausal hormones. However, the evidence is mixed, with some showing positive effects while others show no or even negative effects. In this investigation, we considered some variables related to the interested health condition. The results obtained through the application of Variational Autoencoders reflect variables’ relationship to physical, emotional, and biological effects. Furthermore, this study explains the preponderance of dementia among postmenopausal women compared with same-age men supporting a tentative role of their predominance of suffering from dementia.</p>
+<p><strong>- Christian Palma, USFQ - Dimensión Fractal de Objetos 2D: Caso Embalse Daule Peripa</strong></p>
+<p><strong>Abstract:</strong>
+La dimensión fractal de un objeto (n-1)-dimensional es estudiada para analizar la complejidad y autosimilaridad que presenta el mismo en un espacio n-dimensional. En la naturaleza existen cuencas hidrográficas que presentan una expansión en forma de fractal a lo largo de sus cauces si son observadas como líneas unidimensionales. En este proyecto se presenta una implementación del algoritmo de conteo de cajas (box counting) en Python para estimar la dimensión fractal de la cuenca hidrográfica del embalse Daule Peripa en Guayas, Ecuador; siendo esta 1.7.</p>
+<p><strong>- Karla Conde, UIDE - Análisis de sentimientos en redes sociales de las Elecciones presidenciales electorales 2023 usando procesamiento de lenguaje natural</strong></p>
+<p><strong>Abstract:</strong>
+Con las próximas elecciones presidenciales 2023, extraer datos en las páginas de Facebook es un recurso importante para comprender las tendencias políticas la plataforma.
+El conocimiento de las tendencias políticas dentro de las redes sociales da un aproximado en cuanto a datos para definir cuales son los candidatos que estan teniendo mas acogida y con mayor probabilidad para ganar dichas elecciones. Con este análisis se solventa la predicción e interpretación de emociones y sentimientos que tienen los votantes hacia los candidatos y temas políticos. Se evalúa el nivel de participación ciudadana e interés por la política durante las campañas electorales. En conclusión, utilizar técnicas de minería de datos para explotar la información de Facebook, plataforma que es influyente en debate político y compromiso cívico, ayuda a comprender las opiniones y tendencias preferenciales de los votantes, usando procesamiento de lenguaje natural y minería de datos.</p>
+<p><strong>- Daniel Gustavo Cordova, UIDE - Mineria de datos para la Optimización de tiempos en el Transporte Urbano en la ciudad de Loja</strong></p>
+<p><strong>Abstract:</strong>
+El artículo presenta un enfoque innovador para abordar los desafíos de eficiencia en el transporte urbano de Loja. Mediante la aplicación de minería de datos, aprendizaje automático y visualización de datos, se analiza un dataset con información sobre buses y tiempos de llegada. Los resultados revelaron patrones clave, horarios de mayor demanda y posibles retrasos en las paradas, lo que permitirá optimizar la programación de buses, reducir tiempos de espera y mejorar la eficiencia del transporte.
+Además, el estudio identificó rutas congestionadas, lo que permitirá implementar mejoras adicionales para abordar problemas de tráfico. Este proyecto ha sido valioso al proporcionar información crucial para ofrecer un servicio de transporte más confiable y eficiente, lo que aumentará la satisfacción de los usuarios y mejorará la calidad general del transporte urbano en Loja. En resumen, este enfoque resalta la importancia de la minería de datos en la toma de decisiones estratégicas para el mejoramiento del transporte urbano.</p>
+<p><strong>- Lizbeth Lara, Yachay Tech - Star Formation Rates and Dust Masses of resolved regions for The nearby Galaxy NGC3938 with H alpha maps and TolTEC Simulations</strong></p>
+<p><strong>Abstract:</strong>
+The TolTEC camera is installed on the Large Millimeter Telescope. While waiting to start making the first observations, we have simulations of the observations that are planned to be made. These are simulated by TolTEC - Mexico and Liverpool Telescope - Spain. In this work, we will start from these simulated observations to perform their treatment, photometry and later analyze them. The observations to be used correspond to the nearby spiral galaxy NGC 3938 where it is expected to detect and measure cold dust as a tracer of star-forming gas. The objective of this work is to measure star formation rates, flux intensity for the different star forming groups in the nearby galaxy; to derive the physical properties of the clumps in the nearby galaxy, such as dust mass, gas mass and dust emission temperature by spectral energy distribution (SED) fits. In addition to presenting the finding of the ratio of star formation rates versus dust mass for regions resolved in H alpha and TolTEC maps for 1.1mm, 1.4mm, and 2.0mm.</p>
+<p><strong>- Vicente Arévalo, Yachay Tech - A brief overview on CTA science</strong></p>
+<p><strong>Abstract:</strong>
+The Cherenkov Telescope Array (CTA) will be the major global observatory for very high energy gamma-ray astronomy over the next decade and beyond.  It allows us to understand different phenomena such as  the role of the relativistic cosmic particles, and the understanding of dark matter. For this reason it is important to introduce students in this kind of area that will be a good opportunity to unveil physics.</p>
+</section>
+</section>
+<section id="id13">
+<h2>Lunch Break (12h20 - 14h20)<a class="headerlink" href="#id13" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="id14">
+<h2>Afternoon session (14h20 - 16h00)<a class="headerlink" href="#id14" title="Permalink to this heading">#</a></h2>
+<section id="h20-16h00-campus-tour-yachay-tech">
+<h3>14h20 - 16h00: Campus Tour Yachay Tech<a class="headerlink" href="#h20-16h00-campus-tour-yachay-tech" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="day-5-friday-18-august-2023">
+<h1>Day 5: Friday 18 August 2023<a class="headerlink" href="#day-5-friday-18-august-2023" title="Permalink to this heading">#</a></h1>
+<section id="epic-3-student-presentations-and-diversity-in-science">
+<h2>EPIC 3 Student Presentations and Diversity in Science<a class="headerlink" href="#epic-3-student-presentations-and-diversity-in-science" title="Permalink to this heading">#</a></h2>
+</section>
+<section id="id15">
+<h2>Morning session (08h00 - 10h00)<a class="headerlink" href="#id15" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom SEPA-A06, 1st floor, Senescyt building</p>
+<section id="h00-10h00-student-group-talks">
+<h3>08h00 - 10h00: Student group talks<a class="headerlink" href="#h00-10h00-student-group-talks" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Group 1: Monte Carlo methods</p></li>
+<li><p>Group 2: Computational Fluid Dynamics</p></li>
+<li><p>Group 3: Bio-image analysis</p></li>
+<li><p>Group 4: Deep learning methods</p></li>
+<li><p>Group 5: Materials Science A</p></li>
+<li><p>Group 6: Materials Science B</p></li>
+<li><p>Group 7: Particle Physics</p></li>
+<li><p>Group 8: Astrophysics A</p></li>
+<li><p>Group 9: Astrophysics B</p></li>
+</ul>
+</section>
+</section>
+<section id="id16">
+<h2>Coffee Break (10h00 - 10h40)<a class="headerlink" href="#id16" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom SEPA-A06, 1st floor, Senescyt building</p>
+</section>
+<section id="midday-session-10h40-12h30">
+<h2>Midday session (10h40 - 12h30)<a class="headerlink" href="#midday-session-10h40-12h30" title="Permalink to this heading">#</a></h2>
+<p>Location: Classroom SEPA-A06, 1st floor, Senescyt building</p>
+<p><strong>10h00 - 10h40: Paulina Vizcaíno Imacaña, PhD (UIDE, Ecuador) - La vocación de las mujeres para estudiar carreras STEM: una mirada de Ecuador</strong></p>
+<img src="https://github.com/ciencialatitud0/EPIC_3/assets/30240951/a102454c-0dc0-4be5-ae1d-d689d8129c75" alt="alt text" width="400px">
+<p><strong>Abstract:</strong>
+The social and historical construction of the role of women in society has been the subject of study of several feminist theories, which attempt to highlight the dichotomy in philosophical and sociocultural thought that validates the distribution of activities based on sex. The public, rational and technical has been relegated to men, while women represent the sensitive, emotional and private. This structure of stereotypes that is reproduced generationally allows us to discern the reasons why there are fewer women pursuing STEM careers. Identifying the reasons that drive women in their choice of a university career allows us to establish strategies to promote the vocation of women who are oriented towards science, technology, engineering and mathematics in Ecuador. The research also seeks to quantitatively evaluate the academic performance of women in STEM careers; and to analyze the participation of women in the field of research in higher education.The objective of the project is to analyze the factors motivating women to pursue STEM careers in Ecuador, Kazakhstan and  India.</p>
+<p><strong>About the Speaker:</strong>
+Director of the School of Computer Science at the International University of Ecuador. Expert in educational tools and digital collaboration platforms. With a background in educational research. She has participated as a speaker in various seminars in countries such as Colombia, Spain, and Ecuador. Additionally, she has served as a jury member for doctoral theses in Colombia. In the field of research, she created UIDE - The STEM Gender Gap and is currently involved in projects with the CINTANA network, collaborating with countries such as India, Kazakhstan, and Ecuador. She is also conducting research on ICT in Education with the Simon Bolivar University of Colombia. She is a member of the EDInnova Network, which includes universities in Spain, Mexico, Costa Rica, Colombia, and Ecuador. She has multiple publications including book chapters from DYKINSON Publishing, as well as scientific articles indexed in Scopus. Among her academic achievements, she received the International and Cum Laude distinction in her Ph.D. from the Autonomous University of Madrid.</p>
+<section id="h40-11h30-mini-presentations-from-female-scientists">
+<h3>10h40 - 11h30: Mini-presentations from Female Scientists<a class="headerlink" href="#h40-11h30-mini-presentations-from-female-scientists" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="h30-12h20-women-in-stem-forum">
+<h3>11h30 - 12h20: Women in STEM Forum<a class="headerlink" href="#h30-12h20-women-in-stem-forum" title="Permalink to this heading">#</a></h3>
+</section>
+<section id="h20-12h30-concluding-remarks-wrap-up">
+<h3>12h20 - 12h30: Concluding Remarks &amp; Wrap-up<a class="headerlink" href="#h20-12h30-concluding-remarks-wrap-up" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+<section id="good-bye-lunch-12h30-14h00">
+<h2>Good-Bye Lunch (12h30 - 14h00)<a class="headerlink" href="#good-bye-lunch-12h30-14h00" title="Permalink to this heading">#</a></h2>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./info"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="participants.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Participants</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="practical-information.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Practical Information</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Preliminary Programme</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#day-1-monday-14-august-2023">Day 1: Monday 14 August 2023</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#computational-physics-tools-and-data-analysis">Computational Physics Tools and Data Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#morning-session-08h00-10h00">Morning session (08h00 - 10h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-08h15-registration">08h00 - 08h15: Registration</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h15-08h40-welcome-to-epic3-and-a-short-introduction-from-pwf">08h15 - 08h40: Welcome to EPIC3 and a short introduction from PWF</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-09h20-helga-denes-phd-yachay-tech-ecuador-the-frontiers-of-computational-physics">08h40 - 09h20: Helga Dénes, PhD (Yachay Tech, Ecuador) - The frontiers of Computational Physics</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-10h00-clara-rojas-phd-yachay-tech-ecuador-analysis-of-the-generalized-starobinsky-inflationary-model">09h20 - 10h00: Clara Rojas, PhD (Yachay Tech, Ecuador) - Analysis of the generalized Starobinsky inflationary model</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#coffee-break-10h00-10h40">Coffee Break (10h00 - 10h40)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#midday-session-10h40-12h20">Midday session (10h40 - 12h20)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lunch-break-12h20-14h20">Lunch Break (12h20 - 14h20)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#afternoon-session-14h20-16h00">Afternoon session (14h20 - 16h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-16h00-wladimir-banda-barragan-phd-yachay-tech-ecuador-hands-on-tutorial-2-fast-fourier-transform-methods-for-fluid-dynamics">14h00 - 16h00: Wladimir Banda-Barragán, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 2: Fast Fourier Transform methods for fluid dynamics</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#day-2-tuesday-15-august-2023">Day 2: Tuesday 15 August 2023</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#machine-learning-for-physics-and-life-sciences">Machine Learning for Physics and Life Sciences</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Morning session (08h00 - 10h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-08h40-andres-morales-navarrete-phd-u-konstanz-germany-using-deep-learning-to-understand-fish-development">08h00 - 08h40: Andrés Morales Navarrete, PhD (U. Konstanz, Germany)  - Using deep learning to understand fish development</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-10h00-gustavo-loachamin-msc-puc-rio-de-janeiro-brasil-the-framework-root-cern-and-its-use-in-particle-physics">09h20 - 10h00: Gustavo Loachamin, MSc (PUC Rio de Janeiro, Brasil) - The framework ROOT CERN and its use in particle physics</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Coffee Break (10h00 - 10h40)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Midday session (10h40 - 12h20)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-12h20-andres-morales-navarrete-phd-u-konstanz-germany-hands-on-tutorial-3-introduction-to-bioimage-analisys-with-python">10h40 - 12h20: Andrés Morales-Navarrete, PhD (U. Konstanz, Germany) - Hands-on Tutorial 3: Introduction to BioImage Analisys with Python</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Lunch Break (12h20 - 14h20)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">Afternoon session (14h20 - 16h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-16h00-andres-morales-navarrete-phd-u-konstanz-germany-hands-on-tutorial-4-deep-learning-for-analisys-and-modelling-of-biological-systems">14h00 - 16h00: Andrés Morales-Navarrete, PhD (U. Konstanz, Germany) - Hands-on Tutorial 4: Deep learning for analisys and modelling of biological systems</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#day-3-wednesday-16-august-2023">Day 3: Wednesday 16 August 2023</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#materials-science-and-high-energy-physics">Materials Science and High-energy Physics</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">Morning session (08h00 - 10h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-10h00-edison-salazar-phd-u-leiden-netherlands-hands-on-tutorial-5-excited-state-dynamics-tully-scheme-implementation-and-models-live-virtual">08h00 - 10h00: Edison Salazar, PhD (U. Leiden, Netherlands) - Hands-on Tutorial 5: Excited-state dynamics: Tully scheme implementation and models (live virtual)</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">Coffee Break (10h00 - 10h40)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">Midday session (10h40 - 12h20)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-11h20-nelson-herrera-arauz-phd-uide-ecuador-realidad-historico-astronomica-de-la-linea-ecuatorial-y-la-reedicion-del-experimento-del-geografo-charles-de-la-condamine">10h40 - 11h20: Nelson Herrera Aráuz, PhD (UIDE, Ecuador) - Realidad histórico-astronómica de la línea ecuatorial y la reedición del experimento del geógrafo Charles de La Condamine</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-12h00-diego-fabian-morales-navarrete-phd-yachay-tech-ecuador-modeling-and-estimating-geo-referenced-count-spatial-data-with-excessive-zeros">11h20 - 12h00: Diego Fabián Morales Navarrete, PhD (Yachay Tech, Ecuador) - Modeling and estimating geo-referenced count spatial data with excessive zeros</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">Lunch Break (12h20 - 14h20)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">Afternoon session (14h20 - 16h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-15h10-alejandro-gomez-espinosa-phd-eth-switzerland-hands-on-tutorial-4-intro-to-particle-physics-analysis-with-python">14h20 - 15h10: Alejandro Gómez Espinosa, PhD (ETH, Switzerland) - Hands-on Tutorial 4: Intro to Particle Physics Analysis with Python</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h10-16h00-alejandro-gomez-espinosa-phd-eth-switzerland-hands-on-tutorial-5-how-to-discover-particles-in-lhc-data-using-python">15h10 - 16h00: Alejandro Gómez Espinosa, PhD (ETH, Switzerland) - Hands-on Tutorial 5:How to discover particles in LHC data using Python</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#evening-session-18h00-20h00">Evening session (18h00 - 20h00)</a></li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#day-4-thursday-17-august-2023">Day 4: Thursday 17 August 2023</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#astrophysics-and-computing">Astrophysics and Computing</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">Morning session (08h00 - 10h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-09h20-helga-denes-phd-yachay-tech-ecuador-hands-on-tutorial-4-how-to-analyse-3d-astrophysical-data-cubes">08h00 - 09h20: Helga Dénes, PhD (Yachay Tech, Ecuador) - Hands-on Tutorial 4: How to analyse 3D astrophysical data cubes</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-09h40-roberto-jacome-uide-loxa-smart-a-protoype-of-smart-and-sustainable-city">09h20 - 09h40: Roberto Jácome, UIDE - Loxa Smart, a protoype of smart and sustainable city</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-10h00-milton-palacios-uide-deteccion-de-la-atencion-en-clases-virtuales-a-traves-de-las-acciones-en-el-ordenador">09h40 - 10h00: Milton Palacios, UIDE - Detección de la atención en clases virtuales a través de las acciones en el ordenador</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id12">Coffee Break (10h00 - 10h40)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#midday-session-10h40-12h40">Midday session (10h40 - 12h40)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-11h00-andres-villares-fis-yachay-tech-ecuador-hydrodynamic-shielding-in-galactic-multicloud-outflows">10h40 - 11h00: Andrés Villares, Fís (Yachay Tech, Ecuador) - Hydrodynamic shielding in galactic multicloud outflows</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-12h40-contributed-talks">11h00 - 12h40: Contributed talks</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id13">Lunch Break (12h20 - 14h20)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id14">Afternoon session (14h20 - 16h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-16h00-campus-tour-yachay-tech">14h20 - 16h00: Campus Tour Yachay Tech</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#day-5-friday-18-august-2023">Day 5: Friday 18 August 2023</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#epic-3-student-presentations-and-diversity-in-science">EPIC 3 Student Presentations and Diversity in Science</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id15">Morning session (08h00 - 10h00)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h00-10h00-student-group-talks">08h00 - 10h00: Student group talks</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id16">Coffee Break (10h00 - 10h40)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#midday-session-10h40-12h30">Midday session (10h40 - 12h30)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h40-11h30-mini-presentations-from-female-scientists">10h40 - 11h30: Mini-presentations from Female Scientists</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h30-12h20-women-in-stem-forum">11h30 - 12h20: Women in STEM Forum</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#h20-12h30-concluding-remarks-wrap-up">12h20 - 12h30: Concluding Remarks &amp; Wrap-up</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#good-bye-lunch-12h30-14h00">Good-Bye Lunch (12h30 - 14h00)</a></li>
+</ul>
+</li>
+</ul>
+
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Ciencia Latitud 0
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2022.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
