@@ -1,7 +1,7 @@
 # Escuela de Programación para Investigación Científica - EPIC 4
 ## The frontiers of Computational Physics
 
-EPIC 3 se enfoca en introducir técnicas para el análisis de datos utilizando python como herramienta principal.
+EPIC 4 se enfoca en introducir técnicas para el análisis de datos utilizando python como herramienta principal.
 
 Al final de este taller virtual l@s estudiantes podrán realizar análisis de datos primarios (i.e. no procesados) para extraer información importante sobre el comportamiento de sistemas físicos.
 
