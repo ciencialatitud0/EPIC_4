@@ -4,13 +4,20 @@
 
 Yachay Tech is relatively new (9-year old) research-oriented university in Ecuador. Its campus is located in the northen region of Ecuador up in the Andes mountains (at an altitude of ~2300 meters above the sea level). This year, Yachay Tech will host the third edition of the EPIC school series, which is also the first edition to be carried out in person. If you want to know more about the host institution, please clic on the link below:
 
-https://www.yachaytech.edu.ec/en/physicsandnanotech/
+https://www.uide.edu.ec/
 
 ## How to get to UIDE?
 
-The campus of Yachay Tech is located in the Urcuquí canton in the Imbabura province.
+The campus of UIDE is located in Quito in the Pichincha province.
 
-See location: https://goo.gl/maps/XbB5P739rvPBCJCv7
+See location: https://maps.app.goo.gl/vh1RgGHLEMXze5bz8
+
+### Venue:
+
+Campus: Matriz (Quito)
+Edificio: Elon Musk
+Floor: 2
+Laboratory: 218
 
 The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarra terminal will work. Busses go from Ibarra terminal to Urcuquí. From Urcuquí there are buses or pickup trucks that go from the Cemetary to the University. The trip from Ibarra to the University takes about 1 hour. Some detailed examples are below with estimated costs.
 
