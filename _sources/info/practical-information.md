@@ -26,7 +26,8 @@ The campus of UIDE is located in Quito in the Pichincha province.
 
 See location: https://maps.app.goo.gl/vh1RgGHLEMXze5bz8
 
-![mapa_UIDE_Quito](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/093069c3-ad59-4aac-ad42-fe4e2d7c6138)
+![mapa_UIDE_Quito](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/65ff5f56-0fda-4f63-b357-624f8e49b472)
+
 
 
 ### From Ibarra (Terminal Terreste Ibarra)
