@@ -6,7 +6,7 @@ Yachay Tech is relatively new (9-year old) research-oriented university in Ecuad
 
 https://www.uide.edu.ec/
 
-![52747917333_5770b20b4f_o](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/bf0c66fc-89f2-4796-b780-5b339cf1c451)
+![52747917333_5770b20b4f_o](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/74607b65-a649-438a-aba0-6822b790cd47)
 
 
 ## How to get to UIDE?
