@@ -27,8 +27,6 @@ https://www.uide.edu.ec/
 
 ![52746858117_b9b3496b64_k](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/31f6f266-415a-47c4-aa72-3fdc997ee29c)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/197862188@N04/52746858117/in/album-72177720306712327/" title="Terraza"><img src="https://live.staticflickr.com/65535/52746858117_1462f32fa6_6k.jpg" width="6000" height="4000" alt="Terraza"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 ### How to get to UIDE?
 
 The campus of UIDE is located in Quito. See the location here: https://maps.app.goo.gl/vh1RgGHLEMXze5bz8
