@@ -1,12 +1,12 @@
 # Practical Information
 
-## Host institution
+## Host institution: UIDE
 
 Yachay Tech is relatively new (9-year old) research-oriented university in Ecuador. Its campus is located in the northen region of Ecuador up in the Andes mountains (at an altitude of ~2300 meters above the sea level). This year, Yachay Tech will host the third edition of the EPIC school series, which is also the first edition to be carried out in person. If you want to know more about the host institution, please clic on the link below:
 
 https://www.yachaytech.edu.ec/en/physicsandnanotech/
 
-## How to get to Yachay Tech?
+## How to get to UIDE?
 
 The campus of Yachay Tech is located in the Urcuquí canton in the Imbabura province.
 
