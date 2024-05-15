@@ -105,7 +105,7 @@ Location:
 **About the Speaker:**
 
 
-# Day 3: Wednesday 16 August 2023
+# Day 3: Wednesday 24 July 2024
 ## Materials Science and High-energy Physics
 
 ## Morning session (08h00 - 10h00)
@@ -147,7 +147,7 @@ Location:
 18h00 - 20h00: Public talk
 
 
-# Day 4: Thursday 17 August 2023
+# Day 4: Thursday 25 July 2024
 ## Astrophysics and Computing
 
 ## Morning session (08h00 - 10h00)
@@ -189,7 +189,7 @@ Location:
 ### 14h20 - 16h00: Campus Tour ?
 
 
-# Day 5: Friday 18 August 2023
+# Day 5: Friday 26 July 2024
 ## EPIC 3 Student Presentations and Diversity in Science
 
 ## Morning session (08h00 - 10h00)
