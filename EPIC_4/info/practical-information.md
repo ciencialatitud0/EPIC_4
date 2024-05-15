@@ -6,10 +6,13 @@ Yachay Tech is relatively new (9-year old) research-oriented university in Ecuad
 
 ### School venue:
 
-Campus: Matriz (Quito)
-Edificio: Elon Musk
-Floor: 2
-Laboratory: 218
+- Campus: Matriz (Quito)
+
+- Building: Elon Musk
+
+- Floor: 2
+
+- Laboratory: 218
 
 The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarra terminal will work. Busses go from Ibarra terminal to Urcuquí. From Urcuquí there are buses or pickup trucks that go from the Cemetary to the University. The trip from Ibarra to the University takes about 1 hour. Some detailed examples are below with estimated costs.
 
