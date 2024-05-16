@@ -35,11 +35,11 @@ The campus of UIDE is located in Quito. See the location here: https://maps.app.
 
 
 ### From Quito (Carcelén Bus Station)
-- 
+- Taxi 
 
 
 ### From Quito's airport
-- 
+- Taxi ~15-20 USD.
 
 
 ## History of the UIDE campus
