@@ -2,8 +2,8 @@
 
 #### "Harnessing Data for Scientific Discovery - A Deep Dive into Data Analysis and Machine Learning for Physical and Life Sciences"
 
-22 - 26 July 2024
+##### When? 22 - 26 July 2024
 
-UIDE campus
+#### Where, UIDE campus, Quito - ECUADOR
 
-Quito - ECUADOR
+#### Format: In person
