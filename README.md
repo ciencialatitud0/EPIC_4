@@ -8,5 +8,5 @@
 #### Where?
 UIDE campus, Quito - ECUADOR
 
-#### Format:
+#### Format?
 In person
