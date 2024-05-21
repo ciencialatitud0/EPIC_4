@@ -1,7 +1,7 @@
 # IV Escuela de Programación para Investigación Científica (EPIC)
-## "EPIC 4: Data analysis and machine learning for physical and life sciences"
+## "EPIC 4: Harnessing Data for Scientific Discovery - A Deep Dive into Data Analysis and Machine Learning for Physical and Life Sciences"
 
-Physics Without Frontiers (PWF) jointly with Grupo de Investigadores Latitud Cero, Universidad International del Ecuador - UIDE, the School of Physical Sciences and Nanotechnology of Yachay Tech University, and the Physics Department of Escuela Politécnica Nacional in Ecuador are pleased to announce our upcoming summer "School of Programming for Scientific Research - EPIC 4: Data analysis and machine learning for physical and life sciences".
+Physics Without Frontiers (PWF) jointly with Grupo de Investigadores Latitud Cero, the School of Physical Sciences and Nanotechnology of Yachay Tech University, Universidad International del Ecuador (UIDE), the Physics Department of Escuela Politécnica Nacional, and UNESCO-Quito are pleased to announce our upcoming summer "School of Programming for Scientific Research - EPIC 4: Harnessing Data for Scientific Discovery - A Deep Dive into Data Analysis and Machine Learning for Physical and Life Sciences".
 
 #### Indico page of the School
 https://indico.cern.ch/event/1417411/
