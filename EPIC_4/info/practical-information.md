@@ -39,7 +39,7 @@ Unfortunately public transport options to the UIDE campus are limited, we recomm
 - The UIDE campus is approximately 30 minues by car from the centre of Quito.
 
 ### From Quito's airport
-- Taxi 10 ~ USD (40-50 minutes).
+- Taxi ~10 USD (40-50 minutes).
 
 ## Popular attractions in Quito
 Quito has many popular attractions that are worth visiting. This is a short list to inspire exploring the city. 
