@@ -45,7 +45,7 @@ Campus Quito, Av. Simón Bolívar y Av. Jorge Fernández
 QUITO, ECUADOR
 
 #### Website
-https://www.yachaytech.edu.ec/en/physicsandnanotech/
+https://www.uide.edu.ec/
 
 **Dates**: 22 - 26th July 2024
 
@@ -60,12 +60,17 @@ https://www.yachaytech.edu.ec/en/physicsandnanotech/
 ## Deadline
 The applications for EPIC 4 are open until **16th June, 2024**. Please submit your application via Indico.
 
-#### Registration page on Indico
-https://indico.cern.ch/event/1417411/
+#### Registration requirements
+
+•⁠  ⁠Complete the registration form in Indico: https://indico.cern.ch/event/1417411
+
+•⁠  ⁠A motivation letter (maximum 200 words) to be filled in the registry.
+
+•⁠  ⁠⁠A recommendation letter from a senior academic who knows you well, sent by the deadline (16th June) via email to: ciencia.latitud0@gmail.com
 
 
 ## Grants
-The number of participants of EPIC 4 will be limited to the 20 most motivated students. Preference will be given to BSc students in their mid to last semesters, to MSc students, and to those who have not participated in previous editions of EPIC (EPIC 1 or EPIC 2). Accommodation (in a shared residency) will be provided (free of charge) by the host institution (UIDE) to all selected participants. Some scholarships to cover meals (breakfast, lunch, dinner, snacks) will also be available to participants who require them, but keep in mind that scholarships to cover meals and travel costs may only be available for a very limited number of participants. Participants (or their universities) are expected to bear the costs of travel from their respective universities to UIDE's campus in Quito. However, a few travel grants might be available. **When you submit your application, please indicate the kind of financial support that you would require to attend EPIC 4.** There is no registration fee.
+The number of participants of EPIC 4 will be limited to the 20 most motivated students. Preference will be given to BSc students in their mid to last semesters, to MSc students, and to those who have not participated in previous editions of EPIC (EPIC 1, EPIC 2 or EPIC 3). Accommodation (in a shared residency) will be provided (free of charge) by the host institution (UIDE) to all selected participants. Some scholarships to cover meals (breakfast, lunch, dinner, snacks) will also be available to participants who require them, but keep in mind that scholarships to cover meals and travel costs may only be available for a very limited number of participants. Participants (or their universities) are expected to bear the costs of travel from their respective universities to UIDE's campus in Quito. However, a few travel grants might be available. **When you submit your application, please indicate the kind of financial support that you would require to attend EPIC 4.** There is no registration fee.
 
 
 ## Certificate
