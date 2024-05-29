@@ -33,7 +33,7 @@ The campus of UIDE is located in Quito. See the location here: https://maps.app.
 
 ![mapa_UIDE_Quito](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/65ff5f56-0fda-4f63-b357-624f8e49b472)
 
-Unfortunately public transport options to the UIDE campus are limited, we recommend to arrive to campus by car or taxi. 
+Unfortunately public transport options to the UIDE campus are limited, we recommend to arrive to campus by car or taxi. We recommend to organise shareing rides and taxies. 
 
 ### From Quito
 - The UIDE campus is approximately 30 minues by car from the centre of Quito.
