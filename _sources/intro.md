@@ -35,7 +35,7 @@ We welcome applications from undergraduate students, MSc students, and early-car
 The 4th edition of EPIC will focus on introducing techniques for data analysis and image processing using Python and other programming languages as the main tools. EPIC 4 will have plenary talks on various topics and dedicated tutorials on simulation and data analysis in physics, machine learning for physics and life sciences, observational astronomy and computational astrophysics, high-energy (particle) physics, and materials science. By the end of this school, participants will have the ability to perform basic data analysis on unprocessed raw data and images to extract important information about physical systems. Participants will also have the opportunity to present their own research work during a dedicated session.
 
 ## Venue
-The school will be held in person on the campus of Universida Internacional del Ecuador (UIDE) from **22nd to 26th July 2024**. UIDE is located in the city of Quito, a place renowned for its pleasant weather conditions and its proximity to numerous tourist attractions, such as hot springs, lakes, mountains, and active and inactive volcanoes.
+The school will be held in person on the campus of Universidad Internacional del Ecuador (UIDE) from **22nd to 26th July 2024**. UIDE is located in the city of Quito, a place renowned for its pleasant weather conditions and its proximity to numerous tourist attractions, such as hot springs, lakes, mountains, and active and inactive volcanoes.
 
 #### Address
 Universidad Internacional del Ecuador (UIDE), Campus Quito, Av. Simón Bolívar y Av. Jorge Fernández, QUITO, ECUADOR
