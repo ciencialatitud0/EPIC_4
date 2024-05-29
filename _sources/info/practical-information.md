@@ -33,17 +33,23 @@ The campus of UIDE is located in Quito. See the location here: https://maps.app.
 
 ![mapa_UIDE_Quito](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/65ff5f56-0fda-4f63-b357-624f8e49b472)
 
+Unfortunately public transport options to the UIDE campus are limited, we recommend to arrive to campus by car or taxi. 
 
-### From Quito (Carcelén Bus Station)
-- Taxi 
-
+### From Quito
+- The UIDE campus is approximately 30 minues by car from the centre of Quito.
 
 ### From Quito's airport
-- Taxi ~15-20 USD.
-
-
-## History of the UIDE campus
-
+- Taxi 10 ~ USD (40-50 minutes).
 
 ## Popular attractions in Quito
--
+Quito has many popular attractions that are worth visiting. This is a short list to inspire exploring the city. 
+
+- The historic centre of Quito (UNESCO World heritage site): many historic buildings, museums and churches
+- El Panecillo: a popular lookout with excellent views of the city
+- La Mariscal: a popular district with restaurants and cafés
+- Basilica
+- The museum of the city of Quito
+- Parque Arqueológico Rumipamba
+- Parque Itchimbía: excellent views of the city
+- Casa Museo Guayasamín y Capilla del Hombre
+
