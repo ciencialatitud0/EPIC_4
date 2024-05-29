@@ -14,4 +14,5 @@ In person
 
 #### Poster
 
-[PWF_ECUADOR_2024.pdf](https://github.com/ciencialatitud0/EPIC_4/files/15486004/PWF_ECUADOR_2024.pdf)
+![PWF_ECUADOR_2024](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/0cecb6e6-212f-4135-850b-431b5ea89016)
+
