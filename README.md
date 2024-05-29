@@ -11,3 +11,7 @@ UIDE campus, Quito - ECUADOR
 
 #### Format?
 In person
+
+#### Poster
+
+[PWF_ECUADOR_2024.pdf](https://github.com/ciencialatitud0/EPIC_4/files/15486004/PWF_ECUADOR_2024.pdf)
