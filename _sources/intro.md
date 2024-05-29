@@ -38,7 +38,11 @@ The 4th edition of EPIC will focus on introducing techniques for data analysis a
 The school will be held in person on the campus of Universidad Internacional del Ecuador (UIDE) from **22nd to 26th July 2024**. UIDE is located in the city of Quito, a place renowned for its pleasant weather conditions and its proximity to numerous tourist attractions, such as hot springs, lakes, mountains, and active and inactive volcanoes.
 
 #### Address
-Universidad Internacional del Ecuador (UIDE), Campus Quito, Av. Simón Bolívar y Av. Jorge Fernández, QUITO, ECUADOR
+Universidad Internacional del Ecuador (UIDE)
+
+Campus Quito, Av. Simón Bolívar y Av. Jorge Fernández
+
+QUITO, ECUADOR
 
 #### Website
 https://www.yachaytech.edu.ec/en/physicsandnanotech/
