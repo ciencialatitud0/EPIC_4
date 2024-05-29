@@ -54,7 +54,7 @@ https://www.yachaytech.edu.ec/en/physicsandnanotech/
 **Cost**: there is no registration fee
 
 ## Deadline
-The applications for EPIC 4 are open until **10th June, 2024**. Please submit your application via Indico.
+The applications for EPIC 4 are open until **16th June, 2024**. Please submit your application via Indico.
 
 #### Registration page on Indico
 https://indico.cern.ch/event/1417411/
