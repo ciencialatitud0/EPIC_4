@@ -94,6 +94,7 @@ Students who attend and complete the course will receive an ICTP-PWF and UNESCO 
 
 ## Poster
 
+![PWF_ECUADOR_2024](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/5c8e561c-b37a-48e5-ac85-de66ed6bab45)
 
 
 
