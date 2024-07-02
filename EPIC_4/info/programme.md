@@ -1,120 +1,59 @@
-# Preliminary Programme (in construction)
-
-We will use a computer laboratory, which is located in.
-
-**- For the talks:** 
-
-**- For the tutorials:** 
+# Preliminary Programme
 
 # Day 1: Monday 22 July 2024
-## Computational Physics Tools and Data Analysis
 
-## Morning session (08h00 - 10h00)
+## Computational Physics Tools, Data Analysis and Machine Learning I
+
+## Morning session (08h00 - 13h00)
 Location: 
 
-### 08h00 - 08h15: Registration
+### 08h45 - 09h00: Registration
 
-### 08h15 - 08h40: Welcome to EPIC4 and a short introduction from PWF
+### 09h00 - 09h40: Welcome to EPIC4 and a short introduction from PWF
 
-### 08h40 - 09h20: 
+### 09h40 - 10h20: Plenary Talk: Decoding Zebrafish development with AI and Soft Matter Physics (Andrés Morales-Naverrete, U. Konstanz)
 
-**Abstract:**
+### 10h20 - 11h00: Coffee Break
 
+### 11h00 - 13h00: Python tutorial: Analysis and visualisation of adaptive mesh refinement simulations (Wladimir Banda-Barragán, Yachay Tech)
 
-**About the Speaker:** 
+## Lunch Break (13h00 - 15h00)
 
+## Afternoon session (15h00 - 17h00)
 
-### 09h20 - 10h00: 
-
-**Abstract:**
-
-**About the Speaker:**
-
-## Coffee Break (10h00 - 10h40)
-
-
-## Midday session (10h40 - 12h20)
-
-
-### 10h40 - 12h20:
-
-**Abstract:**
-
-
-**About the Speaker:**
-
-## Lunch Break (12h20 - 14h20)
-
-## Afternoon session (14h20 - 16h00)
-
-### 14h00 - 16h00: 
-
-**Abstract:**
-
-
-**About the Speaker:**
+### 15h00 - 17h00: Tutorial: Applied Artificial Intelligence
+Location: 
 
 
 # Day 2: Tuesday 23 July 2024
-## Machine Learning for Physics and Life Sciences
+## Computational Physics Tools, Data Analysis and Machine Learning II
 
 ## Morning session (08h00 - 10h00)
 Location: 
 
-### 08h00 - 08h40: 
+### 08h00 - 10h20: UIDE Laboratory Tour
 
-**Abstract:**
+### 10h20 - 11h00: Coffee Break
 
-**About the Speaker:**
+### 11h00 - 13h00: Python tutorial: Python tutorial: Star formation in galaxies using SDSS data (Helga Dénes, Yachay Tech)
 
-### 08h40 - 09h20:
+## Lunch Break (13h00 - 15h00)
 
-**Abstract:**
+## Afternoon session (15h00 - 17h00)
 
-**About the Speaker:**
-
-### 09h20 - 10h00:
-
-**Abstract:**
-
-
-**About the Speaker:**
-
-
-## Coffee Break (10h00 - 10h40)
-Location: 
-
-## Midday session (10h40 - 12h20)
-Location: 
-
-### 10h40 - 12h20:
-
-**Abstract:**
-
-
-**About the Speaker:**
-
-## Lunch Break (12h20 - 14h20)
-
-## Afternoon session (14h20 - 16h00)
-
-### 14h00 - 16h00: 
-
-**Abstract:**
-
-**About the Speaker:**
+### 15h00 - 17h00: Tutorial: Tutorial: Introduction to deep learning for bioimage analysis (Andrés Morales-Naverrete, U. Konstanz)
 
 
 # Day 3: Wednesday 24 July 2024
-## Materials Science and High-energy Physics
+## Advance topics on Computational Physics Tools and Machine Learning
 
-## Morning session (08h00 - 10h00)
+## Morning session (08h00 - 10h20)
 
-### 08h00 - 10h00: 
+### 08h00 - 08h40: Plenary talk: Materials Science (Henrry Osorio, EPN).
 
-**Abstract:**
+### 08h40 - 09h20: Plenary talk: 
 
-**About the Speaker:**
+### 09h20 - 10h00: Plenary talk: 
 
 ## Coffee Break (10h00 - 10h40)
 Location: 
