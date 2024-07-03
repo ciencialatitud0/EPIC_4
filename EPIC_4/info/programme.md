@@ -80,15 +80,15 @@
 
 08h00 - 10h00: Tutorial 7: Artificial Intelligence Application (Eugenio Morocho, Yachay Tech)
 
-10h00 - 10h40: Coffee Break
+10h00 - 10h20: Coffee Break
 
-10h40 - 11h20: Particle Physics Talk (Xavier Tintin, CERN)
+10h20 - 10h50: Particle Physics Talk (Xavier Tintin, CERN)
 
-11h20 - 12h00: Modeling and estimating geo-referenced count spatial data (Diego Morales, Yachay Tech)
+10h50 - 11h30: Modeling and estimating geo-referenced count spatial data (Diego Morales, Yachay Tech)
 
 11h30 - 13h30: Matlab tutorial: Model based design with Matlab – Simulink (Vladimir Bonilla, UIDE)
 
-13h00 - 15h00: Lunch Break
+13h30 - 15h00: Lunch Break
 
 15h00 - 17h00: Dorothy Coding Challenge
 
