@@ -96,7 +96,21 @@
 # Day 5: Friday 26 July 2024
 ### EPIC 4 Student Presentations
 
-08h00 - 09h40: Student group presentations
+08h00 - 09h30: Student group presentations (12min + 3min per group)
+
+•⁠ 08h00 - 08h15: Group 1
+
+•⁠ 08h15 - 08h30: Group 2
+
+•⁠ 08h30 - 08h45: Group 3
+
+•⁠ 08h45 - 09h00: Group 4
+
+•⁠ 09h00 - 09h15: Group 5
+
+•⁠ 09h15 - 09h30: Group 6
+
+•⁠ 09h30 - 09h40: Discussion
 
 09h40 - 10h20: Materials Science Talk (Henrry Osorio, Escuela Politécnica Nacional)
 
@@ -106,7 +120,7 @@
 
 11h40 - 12h20: Women in STEM Forum
 
-12h20 - 13h00: Concluding Remarks & Wrap-up
+12h20 - 13h00: Dorothy Coding Prizes, Concluding Remarks & Wrap-up
 
 ## Good-Bye Lunch (13h00 - 15h00)
 
