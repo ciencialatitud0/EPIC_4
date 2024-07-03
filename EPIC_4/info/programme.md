@@ -80,17 +80,17 @@
 
 08h00 - 10h00: Tutorial 7: Artificial Intelligence Application (Eugenio Morocho, Yachay Tech)
 
-10h00 - 10h20: Coffee Break
+10h00 - 10h30: Coffee Break
 
-10h20 - 10h50: Particle Physics Talk (Xavier Tintin, CERN)
+10h30 - 12h30: Matlab tutorial: Model based design with Matlab – Simulink (Vladimir Bonilla, UIDE)
 
-10h50 - 11h30: Modeling and estimating geo-referenced count spatial data (Diego Morales, Yachay Tech)
+12h30 - 14h00: Lunch Break
 
-11h30 - 13h30: Matlab tutorial: Model based design with Matlab – Simulink (Vladimir Bonilla, UIDE)
+14h00 - 14h40: Modeling and estimating geo-referenced count spatial data (Diego Morales, Yachay Tech)
 
-13h30 - 15h00: Lunch Break
+14h40 - 15h30: Particle Physics Talk (Xavier Tintin, CERN)
 
-15h00 - 17h00: Dorothy Coding Challenge
+15h30 - 17h00: Dorothy Coding Challenge
 
 
 # Day 5: Friday 26 July 2024
@@ -120,7 +120,7 @@
 
 11h40 - 12h20: Women in STEM Forum
 
-12h20 - 13h00: Dorothy Coding Prizes, Concluding Remarks & Wrap-up
+12h20 - 13h00: Dorothy Coding Challenge Prizes, Concluding Remarks & Wrap-up
 
 ## Good-Bye Lunch (13h00 - 15h00)
 
