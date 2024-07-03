@@ -3,7 +3,7 @@
 # Day 1: Monday 22 July 2024
 ### Computational Physics Tools, Data Analysis and Machine Learning I
 
-#### 08h45 - 09h00: Registration
+#### 08h30 - 09h00: Registration
 
 #### 09h00 - 09h40: Welcome to EPIC4 and a short introduction from PWF
 
