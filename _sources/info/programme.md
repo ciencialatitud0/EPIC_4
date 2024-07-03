@@ -42,7 +42,21 @@
 # Day 3: Wednesday 24 July 2024
 #### Advanced topics on Computational Physics Tools and Machine Learning
 
-08h00 - 09h00: Student contributed talks
+08h00 - 09h00: Student contributed talks (7 min + 3 min each)
+
+•⁠ 08h00 - 08h10: Atomistic study of the effect of composition on the structural and thermodynamic properties of binary Al-Pd nanoalloys (Dario Gonzalo Escriba, UNMSM)
+
+•⁠ 08h10 - 08h20: Analysis of the Folding process of a small polypeptide using molecular dynamic simulations (Tatiana Cabrera, EPN)
+
+•⁠ 08h20 - 08h30: Role of Charging in Organometallic Overlayer On-Surface Self-Assembly (Yordan Solórzano, YT)
+
+•⁠ 08h30 - 08h40: Brief analysis of rainfall series measured in Quito (Luis Gualco Centeno, EPN)
+
+•⁠ 08h40 - 08h50: Efectos sísmico-electromagnéticos en la detección de rayos cósmicos (James Peñafiel, USFQ)
+
+•⁠ 08h50 - 09h00: Scalar and Tensor Power Spectrum of the Higgs inflationary model using Numerical Solution (Mariannly Marquez, YT)
+
+•⁠ 09h00 - 09h10: Some inflationary models under the light of Planck 2018 results (Jordan Zambrano, YT)
 
 09h00 - 09h40: Machine learning applications: classification algorithms (Paulina Vizcaíno, UIDE)
 
