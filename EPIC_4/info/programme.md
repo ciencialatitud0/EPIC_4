@@ -15,7 +15,7 @@
 
 ## Lunch Break (13h00 - 15h00)
 
-### 15h00 - 17h00: Tutorial: Applied Artificial Intelligence (Eugenio Morocho, Yachay Tech)
+#### 15h00 - 17h00: Tutorial: Applied Artificial Intelligence (Eugenio Morocho, Yachay Tech)
 
 # Day 2: Tuesday 23 July 2024
 ### Computational Physics Tools, Data Analysis and Machine Learning II
@@ -28,7 +28,7 @@
 
 ## Lunch Break (13h00 - 15h00)
 
-#### 15h00 - 17h00: Tutorial: Introduction to deep learning for bioimage analysis (Andrés Morales-Naverrete, U. Konstanz)
+#### 15h00 - 17h00: Tutorial: Introduction to deep learning for bioimage analysis (Andrés Morales-Naverrete, Konstanz)
 
 
 # Day 3: Wednesday 24 July 2024
