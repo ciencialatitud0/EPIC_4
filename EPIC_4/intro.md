@@ -81,6 +81,7 @@ Students who attend and complete the course will receive an ICTP-PWF and UNESCO 
 * Clara Rojas, PhD, Yachay Tech University, Ecuador (Cosmology)
 * Henrry M. Osorio, PhD, Escuela Politécnica Nacional, Ecuador (Materials Sciences)
 * Eugenio Morocho, PhD, Yachay Tech University, Ecuador (Artificial Intelligence)
+* Diego Morales, PhD, Yachay Tech University, Ecuador (Statistics)
 * Nelson Herrera, PhD, Universidad Internacional del Ecuador (Mathematics)
 * Paulina Vizcaíno, PhD, Universidad Internacional del Ecuador (Education)
 * Benjamín de Zayas, MSc, Yachay Tech University, Ecuador (Machine Learning)
