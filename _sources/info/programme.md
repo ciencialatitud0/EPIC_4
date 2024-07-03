@@ -20,7 +20,7 @@
 # Day 2: Tuesday 23 July 2024
 #### Computational Physics Tools, Data Analysis and Machine Learning II
 
-08h00 - 08h40: Outreach Talk (Nelson Herrera, UIDE)
+08h00 - 08h40: Plenary Talk: Physics Outreach (Nelson Herrera, UIDE)
 
 08h40 - 10h40: UIDE Laboratory Tour
 
@@ -60,9 +60,9 @@
 
 •⁠ 09h00 - 09h10: Some inflationary models under the light of Planck 2018 results (Jordan Zambrano, YT)
 
-09h10 - 09h50: Machine learning applications: classification algorithms (Paulina Vizcaíno, UIDE)
+09h10 - 09h50: Plenary Talk: Machine learning applications: classification algorithms (Paulina Vizcaíno, UIDE)
 
-09h50 - 10h30: Data visualisation (Iván Reyes, UIDE)
+09h50 - 10h30: Plenary Talk: Data visualisation (Iván Reyes, UIDE)
 
 10h30 - 11h00: Coffee Break
 
@@ -82,13 +82,13 @@
 
 10h00 - 10h30: Coffee Break
 
-10h30 - 12h30: Matlab tutorial: Model based design with Matlab – Simulink (Vladimir Bonilla, UIDE)
+10h30 - 12h30: Tutorial 8: Model based design with Matlab – Simulink (Vladimir Bonilla, UIDE)
 
 12h30 - 14h00: Lunch Break
 
-14h00 - 14h40: Modeling and estimating geo-referenced count spatial data (Diego Morales, Yachay Tech)
+14h00 - 14h40: Plenary Talk: Modeling and estimating geo-referenced count spatial data (Diego Morales, Yachay Tech)
 
-14h40 - 15h30: Particle Physics Talk (Xavier Tintin, CERN)
+14h40 - 15h30: Plenary Talk: Particle Physics Talk (Xavier Tintin, CERN)
 
 15h30 - 17h00: Dorothy Coding Challenge
 
@@ -112,11 +112,11 @@
 
 •⁠ 09h30 - 09h40: Discussion
 
-09h40 - 10h20: Materials Science Talk (Henrry Osorio, Escuela Politécnica Nacional)
+09h40 - 10h20: Plenary Talk: Materials Science (Henrry Osorio, Escuela Politécnica Nacional)
 
 10h20 - 11h00: Coffee Break
 
-11h00 - 11h40: Relativistic Quantum Mechanics (Clara Rojas, Yachay Tech)
+11h00 - 11h40: Plenary Talk: Relativistic Quantum Mechanics (Clara Rojas, Yachay Tech)
 
 11h40 - 12h20: Women in STEM Forum
 
