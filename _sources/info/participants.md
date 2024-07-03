@@ -6,11 +6,11 @@ Dario Escriba Quispe, Universidad Nacional Mayor de San Marcos, Perú
 
 William Carvajal, Observatorio Astronómico de Quito, Ecuador
 
+Jordan Zambrano, Yachay Tech University, Ecuador
+
 Britney Robalino Ramírez, Yachay Tech University, Ecuador
 
 P. Zamora Dávila, Yachay Tech University, Ecuador
-
-Juan David Moromenacho Aguirre, UIDE, Ecuador
 
 Dámaris Asanza Sanmartín, Yachay Tech University, Ecuador
 
@@ -46,4 +46,4 @@ José Felipe De León, Universidad de Panamá, Panamá
 
 David Lara, Yachay Tech University, Ecuador
 
-Jordan Zambrano, Yachay Tech University, Ecuador
+Juan David Moromenacho Aguirre, UIDE, Ecuador
