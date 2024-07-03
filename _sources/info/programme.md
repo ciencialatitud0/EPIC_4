@@ -3,11 +3,11 @@
 # Day 1: Monday 22 July 2024
 ### Computational Physics Tools, Data Analysis and Machine Learning I
 
-08h30 - 09h00: Registration
+08h30 - 09h00: Registration and get together
 
-09h00 - 09h40: Welcome to EPIC4 and a short introduction from PWF
+09h00 - 09h40: Welcome to EPIC4 and a short introduction to the Physics Without Frontiers Programme.
 
-#### 09h40 - 10h20: Plenary Talk: Decoding Zebrafish development with AI and Soft Matter Physics (Andrés Morales-Naverrete, U. Konstanz)
+09h40 - 10h20: Plenary Talk: Decoding Zebrafish development with AI and Soft Matter Physics (Andrés Morales-Naverrete, U. Konstanz)
 
 #### 10h20 - 11h00: Coffee Break
 
