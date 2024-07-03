@@ -70,7 +70,7 @@
 
 
 # Day 5: Friday 26 July 2024
-## EPIC 4 Student Presentations
+### EPIC 4 Student Presentations
 
 #### 08h00 - 09h40: Student group presentations
 
