@@ -22,6 +22,11 @@
 
 #### 08h00 - 10h20: UIDE Laboratory Tour
 
+•⁠ ⁠Tour around the Technical Sciences facilities.
+•⁠ ⁠Tour around the Health Sciences Campus.
+•⁠ ⁠Tour around the Elon Musk Building
+•⁠ ⁠Sports Tour
+
 #### 10h20 - 11h00: Coffee Break
 
 #### 11h00 - 13h00: Tutorial: Star formation in galaxies using SDSS data (Helga Dénes, Yachay Tech)
@@ -34,11 +39,11 @@
 # Day 3: Wednesday 24 July 2024
 ### Advanced topics on Computational Physics Tools and Machine Learning
 
-#### 08h00 - 09h00: Online talks (various invited speakers)
+#### 08h00 - 09h00: Student contributed talks
 
-#### 09h00 - 09h40: Machine learning applications: Paulina Vizcaíno (UIDE)
+#### 09h00 - 09h40: Machine learning applications: classification algorithms (Paulina Vizcaíno, UIDE)
 
-#### 09h40 - 10h20: Machine learning applications: Iván Reyes (UIDE)
+#### 09h40 - 10h20: Data visualisation (Iván Reyes, UIDE)
 
 #### 10h20 - 11h00: Coffee Break
 
@@ -54,7 +59,7 @@
 # Day 4: Thursday 25 July 2024
 ### Model based design and Data Analysis
 
-#### 08h00 - 08h40: Student contributed talks
+#### 08h00 - 08h40: Particle Physics Talk (Xavier Tintin, CERN)
 
 #### 08h40 - 09h20: Modeling and estimating geo-referenced count spatial data (Diego Morales, Yachay Tech)
 
