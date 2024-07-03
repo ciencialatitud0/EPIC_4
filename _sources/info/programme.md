@@ -72,7 +72,7 @@
 # Day 5: Friday 26 July 2024
 ## EPIC 4 Student Presentations
 
-### 08h00 - 09h40: Student group talks
+#### 08h00 - 09h40: Student group presentations
 
 #### 09h40 - 10h20: Materials Science Talk (Henrry Osorio, Escuela Politécnica Nacional)
 
