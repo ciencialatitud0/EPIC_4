@@ -1,59 +1,62 @@
 # Preliminary Programme
 
 # Day 1: Monday 22 July 2024
-### Computational Physics Tools, Data Analysis and Machine Learning I
+#### Computational Physics Tools, Data Analysis and Machine Learning I
 
 08h30 - 09h00: Registration and get together
 
 09h00 - 09h40: Welcome to EPIC4 and a short introduction to the Physics Without Frontiers Programme.
 
-09h40 - 10h20: Plenary Talk: Decoding Zebrafish development with AI and Soft Matter Physics (Andrés Morales-Naverrete, U. Konstanz)
+09h40 - 10h20: Plenary Talk: Decoding Zebrafish development with AI and Soft Matter Physics (Andrés Morales-Naverrete, Konstanz)
 
-#### 10h20 - 11h00: Coffee Break
+10h20 - 11h00: Coffee Break
 
-#### 11h00 - 13h00: Tutorial: Analysis and visualisation of adaptive mesh refinement simulations (Wladimir Banda-Barragán, Yachay Tech)
+11h00 - 13h00: Tutorial 1: Analysis and visualisation of adaptive mesh refinement simulations (Wladimir Banda-Barragán, Yachay Tech)
 
-#### 13h00 - 15h00: Lunch Break
+13h00 - 15h00: Lunch Break
 
-#### 15h00 - 17h00: Tutorial: Applied Artificial Intelligence (Eugenio Morocho, Yachay Tech)
+15h00 - 17h00: Tutorial 2: Artificial Intelligence (Eugenio Morocho, Yachay Tech)
 
 # Day 2: Tuesday 23 July 2024
-### Computational Physics Tools, Data Analysis and Machine Learning II
+#### Computational Physics Tools, Data Analysis and Machine Learning II
 
-#### 08h00 - 10h20: UIDE Laboratory Tour
+08h00 - 10h20: UIDE Laboratory Tour
 
 •⁠ ⁠Tour around the Technical Sciences facilities.
-•⁠ ⁠Tour around the Health Sciences Campus.
+
+•⁠ ⁠Tour around the Health Sciences Campus
+
 •⁠ ⁠Tour around the Elon Musk Building
+
 •⁠ ⁠Sports Tour
 
-#### 10h20 - 11h00: Coffee Break
+10h20 - 11h00: Coffee Break
 
-#### 11h00 - 13h00: Tutorial: Star formation in galaxies using SDSS data (Helga Dénes, Yachay Tech)
+11h00 - 13h00: Tutorial: Star formation in galaxies using SDSS data (Helga Dénes, Yachay Tech)
 
-#### 13h00 - 15h00: Lunch Break
+13h00 - 15h00: Lunch Break
 
-#### 15h00 - 17h00: Tutorial: Introduction to deep learning for bioimage analysis (Andrés Morales-Naverrete, Konstanz)
+15h00 - 17h00: Tutorial 3: Introduction to deep learning for bioimage analysis (Andrés Morales-Naverrete, Konstanz)
 
 
 # Day 3: Wednesday 24 July 2024
-### Advanced topics on Computational Physics Tools and Machine Learning
+#### Advanced topics on Computational Physics Tools and Machine Learning
 
-#### 08h00 - 09h00: Student contributed talks
+08h00 - 09h00: Student contributed talks
 
-#### 09h00 - 09h40: Machine learning applications: classification algorithms (Paulina Vizcaíno, UIDE)
+09h00 - 09h40: Machine learning applications: classification algorithms (Paulina Vizcaíno, UIDE)
 
-#### 09h40 - 10h20: Data visualisation (Iván Reyes, UIDE)
+09h40 - 10h20: Data visualisation (Iván Reyes, UIDE)
 
-#### 10h20 - 11h00: Coffee Break
+10h20 - 11h00: Coffee Break
 
-#### 11h00 - 13h00: Python tutorial: Python tutorial: Modelling Fluids with Python (Wladimir Banda-Barragán, Yachay Tech)
+11h00 - 13h00: Python tutorial: Python tutorial: Modelling Fluids with Python (Wladimir Banda-Barragán, Yachay Tech)
 
-#### 13h00 - 15h00: Lunch Break
+13h00 - 15h00: Lunch Break
 
-#### 15h00 - 17h00: Tutorial: Introduction to Physics-informed Neural Networks (Andrés Morales-Naverrete, U. Konstanz)
+15h00 - 17h00: Tutorial: Introduction to Physics-informed Neural Networks (Andrés Morales-Naverrete, U. Konstanz)
 
-#### 19h00 - 20h00: Special Dinner
+19h00 - 20h00: Special Dinner
 
 
 # Day 4: Thursday 25 July 2024
