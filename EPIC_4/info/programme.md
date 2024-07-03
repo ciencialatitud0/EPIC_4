@@ -34,7 +34,9 @@
 # Day 3: Wednesday 24 July 2024
 ### Advanced topics on Computational Physics Tools and Machine Learning
 
-#### 08h00 - 10h20: Online talks (various invited speakers)
+#### 08h00 - 09h40: Online talks (various invited speakers)
+
+#### 09h40 - 10h20: Machine learning applications: Iván Reyes/ Paulina Vizcaíno
 
 #### 10h20 - 11h00: Coffee Break
 
