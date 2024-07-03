@@ -8,6 +8,8 @@ William Carvajal, Observatorio Astronómico de Quito, Ecuador
 
 Jordan Zambrano, Yachay Tech University, Ecuador
 
+Juan Gustavo Fernández Jarrín, UIDE, Ecuador
+
 Britney Robalino Ramírez, Yachay Tech University, Ecuador
 
 P. Zamora Dávila, Yachay Tech University, Ecuador
