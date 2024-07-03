@@ -13,7 +13,7 @@
 
 #### 11h00 - 13h00: Tutorial: Analysis and visualisation of adaptive mesh refinement simulations (Wladimir Banda-Barragán, Yachay Tech)
 
-## Lunch Break (13h00 - 15h00)
+#### 13h00 - 15h00: Lunch Break
 
 #### 15h00 - 17h00: Tutorial: Applied Artificial Intelligence (Eugenio Morocho, Yachay Tech)
 
@@ -26,7 +26,7 @@
 
 #### 11h00 - 13h00: Tutorial: Star formation in galaxies using SDSS data (Helga Dénes, Yachay Tech)
 
-## Lunch Break (13h00 - 15h00)
+#### 13h00 - 15h00: Lunch Break
 
 #### 15h00 - 17h00: Tutorial: Introduction to deep learning for bioimage analysis (Andrés Morales-Naverrete, Konstanz)
 
@@ -42,7 +42,7 @@
 
 #### 11h00 - 13h00: Python tutorial: Python tutorial: Modelling Fluids with Python (Wladimir Banda-Barragán, Yachay Tech)
 
-## Lunch Break (13h00 - 15h00)
+#### 13h00 - 15h00: Lunch Break
 
 #### 15h00 - 17h00: Tutorial: Introduction to Physics-informed Neural Networks (Andrés Morales-Naverrete, U. Konstanz)
 
@@ -62,7 +62,7 @@
 
 #### 11h00 - 13h00: Matlab tutorial: Model based design with Matlab – Simulink (Vladimir Bonilla, UIDE)
 
-## Lunch Break (13h00 - 15h00)
+#### 13h00 - 15h00: Lunch Break
 
 #### 15h00 - 17h00: Dorothy Coding Challenge
 
