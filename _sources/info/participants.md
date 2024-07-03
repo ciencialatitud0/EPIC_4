@@ -43,5 +43,7 @@ Jairo Quelal, Yachay Tech University, Ecuador
 Gary Guamán, Escuela Politécnica Nacional, Ecuador
 
 José Felipe De León, Universidad de Panamá, Panamá
+
 David Lara, Yachay Tech University, Ecuador
+
 Jordan Zambrano, Yachay Tech University, Ecuador
