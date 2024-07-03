@@ -88,9 +88,9 @@
 
 14h00 - 14h40: Plenary Talk: Modeling and estimating geo-referenced count spatial data (Diego Morales, Yachay Tech)
 
-14h40 - 15h30: Plenary Talk: Particle Physics Talk (Xavier Tintin, CERN)
+14h40 - 15h20: Plenary Talk: Particle Physics Talk (Xavier Tintin, CERN)
 
-15h30 - 17h00: Dorothy Coding Challenge
+15h20 - 17h00: Dorothy Coding Challenge
 
 
 # Day 5: Friday 26 July 2024
