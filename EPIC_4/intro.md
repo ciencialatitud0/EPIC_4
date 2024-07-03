@@ -83,6 +83,7 @@ Students who attend and complete the course will receive an ICTP-PWF and UNESCO 
 * Eugenio Morocho, PhD, Yachay Tech University, Ecuador (Artificial Intelligence)
 * Nelson Herrera, PhD, Universidad Internacional del Ecuador (Mathematics)
 * Paulina Vizcaíno, PhD, Universidad Internacional del Ecuador (Education)
+* Benjamín de Zayas, MSc, Yachay Tech University, Ecuador (Machine Learning)
 * Iván Reyes, MSc, Universidad Internacional del Ecuador (Digital Forensics Analysis)
 * Vladimir Bonilla, PhD, Universidad Internacional del Ecuador (Matlab - Simulink)
 * Helga Dénes, PhD, Yachay Tech University, Ecuador (Radio Astronomy)
