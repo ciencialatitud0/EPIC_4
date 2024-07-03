@@ -15,12 +15,14 @@
 
 13h00 - 15h00: Lunch Break
 
-15h00 - 17h00: Tutorial 2: Artificial Intelligence (Eugenio Morocho, Yachay Tech)
+15h00 - 17h00: Tutorial 2: Introduction to Neural Networks (Benjamín de Zayas, Yachay Tech)
 
 # Day 2: Tuesday 23 July 2024
 #### Computational Physics Tools, Data Analysis and Machine Learning II
 
-08h00 - 10h20: UIDE Laboratory Tour
+08h00 - 08h40: Outreach Talk (Nelson Herrera, UIDE)
+
+08h40 - 10h40: UIDE Laboratory Tour
 
 •⁠ ⁠Tour around the Technical Sciences facilities.
 
@@ -30,13 +32,13 @@
 
 •⁠ ⁠Sports Tour
 
-10h20 - 11h00: Coffee Break
+10h40 - 11h00: Coffee Break
 
-11h00 - 13h00: Tutorial: Star formation in galaxies using SDSS data (Helga Dénes, Yachay Tech)
+11h00 - 13h00: Tutorial 3: Star formation in galaxies using SDSS data (Helga Dénes, Yachay Tech)
 
 13h00 - 15h00: Lunch Break
 
-15h00 - 17h00: Tutorial 3: Introduction to deep learning for bioimage analysis (Andrés Morales-Naverrete, Konstanz)
+15h00 - 17h00: Tutorial 4: Introduction to deep learning for bioimage analysis (Andrés Morales-Naverrete, Konstanz)
 
 
 # Day 3: Wednesday 24 July 2024
@@ -58,17 +60,17 @@
 
 •⁠ 09h00 - 09h10: Some inflationary models under the light of Planck 2018 results (Jordan Zambrano, YT)
 
-09h00 - 09h40: Machine learning applications: classification algorithms (Paulina Vizcaíno, UIDE)
+09h10 - 09h50: Machine learning applications: classification algorithms (Paulina Vizcaíno, UIDE)
 
-09h40 - 10h20: Data visualisation (Iván Reyes, UIDE)
+09h50 - 10h30: Data visualisation (Iván Reyes, UIDE)
 
-10h20 - 11h00: Coffee Break
+10h30 - 11h00: Coffee Break
 
-11h00 - 13h00: Python tutorial: Python tutorial: Modelling Fluids with Python (Wladimir Banda-Barragán, Yachay Tech)
+11h00 - 13h00: Tutorial 5: Modelling Fluids with Python (Wladimir Banda-Barragán, Yachay Tech)
 
 13h00 - 15h00: Lunch Break
 
-15h00 - 17h00: Tutorial: Introduction to Physics-informed Neural Networks (Andrés Morales-Naverrete, U. Konstanz)
+15h00 - 17h00: Tutorial 6: Introduction to Physics-informed Neural Networks (Andrés Morales-Naverrete, U. Konstanz)
 
 19h00 - 20h00: Special Dinner
 
@@ -76,35 +78,35 @@
 # Day 4: Thursday 25 July 2024
 ### Model based design and Data Analysis
 
-#### 08h00 - 08h40: Particle Physics Talk (Xavier Tintin, CERN)
+08h00 - 10h00: Tutorial 7: Artificial Intelligence Application (Eugenio Morocho, Yachay Tech)
 
-#### 08h40 - 09h20: Modeling and estimating geo-referenced count spatial data (Diego Morales, Yachay Tech)
+10h00 - 10h40: Coffee Break
 
-#### 09h20 - 10h00: Physics Talk (Nelson Herrera, UIDE)
+10h40 - 11h20: Particle Physics Talk (Xavier Tintin, CERN)
 
-#### 10h20 - 11h00: Coffee Break
+11h20 - 12h00: Modeling and estimating geo-referenced count spatial data (Diego Morales, Yachay Tech)
 
-#### 11h00 - 13h00: Matlab tutorial: Model based design with Matlab – Simulink (Vladimir Bonilla, UIDE)
+11h30 - 13h30: Matlab tutorial: Model based design with Matlab – Simulink (Vladimir Bonilla, UIDE)
 
-#### 13h00 - 15h00: Lunch Break
+13h00 - 15h00: Lunch Break
 
-#### 15h00 - 17h00: Dorothy Coding Challenge
+15h00 - 17h00: Dorothy Coding Challenge
 
 
 # Day 5: Friday 26 July 2024
 ### EPIC 4 Student Presentations
 
-#### 08h00 - 09h40: Student group presentations
+08h00 - 09h40: Student group presentations
 
-#### 09h40 - 10h20: Materials Science Talk (Henrry Osorio, Escuela Politécnica Nacional)
+09h40 - 10h20: Materials Science Talk (Henrry Osorio, Escuela Politécnica Nacional)
 
-#### 10h20 - 11h00: Coffee Break
+10h20 - 11h00: Coffee Break
 
-#### 11h00 - 11h40: Relativistic Quantum Mechanics (Clara Rojas, Yachay Tech)
+11h00 - 11h40: Relativistic Quantum Mechanics (Clara Rojas, Yachay Tech)
 
-#### 11h40 - 12h20: Women in STEM Forum
+11h40 - 12h20: Women in STEM Forum
 
-#### 12h20 - 13h00: Concluding Remarks & Wrap-up
+12h20 - 13h00: Concluding Remarks & Wrap-up
 
 ## Good-Bye Lunch (13h00 - 15h00)
 
