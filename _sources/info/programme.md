@@ -44,7 +44,7 @@
 # Day 3: Wednesday 24 July 2024
 #### Advanced topics on Computational Physics Tools and Machine Learning
 
-08h00 - 09h00: Student contributed talks (7 min + 3 min each)
+08h00 - 09h10: Student contributed talks (7 min + 3 min each)
 
 •⁠ 08h00 - 08h10: Atomistic study of the effect of composition on the structural and thermodynamic properties of binary Al-Pd nanoalloys (Dario Gonzalo Escriba, UNMSM)
 
