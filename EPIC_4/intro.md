@@ -80,6 +80,7 @@ Students who attend and complete the course will receive an ICTP-PWF and UNESCO 
 ## Confirmed Speakers and Lecturers
 * Clara Rojas, PhD, Yachay Tech University, Ecuador (Cosmology)
 * Henrry M. Osorio, PhD, Escuela Politécnica Nacional, Ecuador (Materials Sciences)
+* Eugenio Morocho, PhD, Yachay Tech University, Ecuador (Artificial Intelligence)
 * Nelson Herrera, PhD, Universidad Internacional del Ecuador (Mathematics)
 * Paulina Vizcaíno, PhD, Universidad Internacional del Ecuador (Education)
 * Iván Reyes, MSc, Universidad Internacional del Ecuador (Digital Forensics Analysis)
