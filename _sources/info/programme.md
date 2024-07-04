@@ -60,11 +60,13 @@
 
 •⁠ 09h00 - 09h10: Some inflationary models under the light of Planck 2018 results (Jordan Zambrano, YT)
 
-09h10 - 09h50: Plenary Talk: Machine learning applications: classification algorithms (Paulina Vizcaíno, UIDE)
+•⁠ 09h10 - 09h20: Study of acausally displaced vertices from Lee-Wick particle decays with LHC open data (Jonathan Joel Sánchez Jácome, YT)
 
-09h50 - 10h30: Plenary Talk: Data visualisation (Iván Reyes, UIDE)
+09h20 - 10h00: Plenary Talk: Machine learning applications: classification algorithms (Paulina Vizcaíno, UIDE)
 
-10h30 - 11h00: Coffee Break
+10h00 - 10h40: Plenary Talk: Data visualisation (Iván Reyes, UIDE)
+
+10h40 - 11h00: Coffee Break
 
 11h00 - 13h00: Tutorial 5: Modelling Fluids with Python (Wladimir Banda-Barragán, Yachay Tech)
 
