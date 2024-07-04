@@ -87,6 +87,7 @@ Students who attend and complete the course will receive an ICTP-PWF and UNESCO 
 * Benjamín de Zayas, MSc, Yachay Tech University, Ecuador (Machine Learning)
 * Iván Reyes, MSc, Universidad Internacional del Ecuador (Digital Forensics Analysis)
 * Vladimir Bonilla, PhD, Universidad Internacional del Ecuador (Matlab - Simulink)
+* Xavier Tintin, Fís, CERN (Particle Physics)
 * Helga Dénes, PhD, Yachay Tech University, Ecuador (Radio Astronomy)
 * Andrés Morales-Navarrete, PhD, Universität Konstanz, Germany (Biophysics & Machine Learning)
 * Wladimir Banda-Barragán, PhD, Yachay Tech University, Ecuador (Astrophysics & Fluid Dynamics)
