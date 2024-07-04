@@ -24,6 +24,8 @@ Andrés López Echeverri, Universidad de Antioquia, Colombia
 
 Stephanie Enríquez, Yachay Tech University, Ecuador
 
+Jonathan Joel Sánchez Jácome, Universidad Central Del Ecuador, Ecuador
+
 Mariannly Marquez Urdaneta, Yachay Tech University, Ecuador
 
 Yordan Solorzano, Yachay Tech University, Ecuador
@@ -35,6 +37,8 @@ Melissa Quiñonez, Yachay Tech University, Ecuador
 Luis Felipe Gualco Centeno, Escuela Politécnica Nacional, Ecuador
 
 Melany Carvajal, Yachay Tech University, Ecuador
+
+Andrés Felipe Riaño Quintanilla, Universidad de Antioquia, Colombia
 
 Quray Potosi, Yachay Tech University, Ecuador
 
