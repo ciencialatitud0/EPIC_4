@@ -53,3 +53,5 @@ José Felipe De León, Universidad de Panamá, Panamá
 David Lara, Yachay Tech University, Ecuador
 
 Juan David Moromenacho Aguirre, UIDE, Ecuador
+
+Jorge Oswaldo Cedeño Cedeño, ESPOCH, Ecuador
