@@ -87,7 +87,7 @@
 
 10h00 - 10h30: Coffee Break
 
-10h30 - 12h30: Tutorial 8:Programming a neural network from scratch, without using libraries (Benjamín de Zayas, Yachay Tech)
+10h30 - 12h30: Tutorial 8: Programming a neural network from scratch, without using libraries (Benjamín de Zayas, Yachay Tech)
 
 ![tamaño carnet foto - MAKE IT REAL](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/cab79d48-77ab-4349-b982-ec5e9bc46d3f)
 
