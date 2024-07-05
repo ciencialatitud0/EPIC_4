@@ -22,7 +22,7 @@
 # Day 2: Tuesday 23 July 2024
 #### Computational Physics Tools, Data Analysis and Machine Learning II
 
-08h00 - 08h40: Plenary Talk: Physics Outreach (Nelson Herrera, UIDE)
+08h00 - 08h40: Outreach talk: La dilatación del tiempo en la relatividad especial de Albert Einstein: conferencia teórico experimental (Nelson Herrera, UIDE)
 
 08h40 - 10h40: UIDE Laboratory Tour
 
