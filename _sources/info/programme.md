@@ -1,6 +1,7 @@
 # Scientific Programme
 
-![EPIC4_Programme_v2](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/7c7c8c21-60d8-47e6-b0a1-a43b2d18b704)
+![EPIC4_Programme_v4](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/85c54e56-fe67-4619-9fb7-f350498966dd)
+
 
 # Day 1: Monday 22 July 2024
 #### Computational Physics Tools, Data Analysis and Machine Learning I
@@ -17,7 +18,7 @@
 
 13h00 - 15h00: Lunch Break
 
-15h00 - 17h00: Tutorial 2: Introduction to Neural Networks (Benjamín de Zayas, Yachay Tech)
+15h00 - 17h00: Tutorial 2: Programming a neural network from scratch, without using libraries 
 
 # Day 2: Tuesday 23 July 2024
 #### Computational Physics Tools, Data Analysis and Machine Learning II
@@ -87,6 +88,8 @@
 10h00 - 10h30: Coffee Break
 
 10h30 - 12h30: Tutorial 8: Model based design with Matlab – Simulink (Vladimir Bonilla, UIDE)
+
+In this session, we will delve into the intricate world of programming a neural network from scratch, bypassing the convenience of pre-built libraries. Our journey will emphasize the mathematical foundations underpinning neural networks, providing a thorough understanding of how these powerful models function at a granular level. We will explore key concepts such as linear transformations, activation functions, forward and backward propagation, and gradient descent. By the end of the class, attendees will have a concrete understanding of the inner workings of neural networks and will be equipped with the skills to implement them using only basic programming constructs. This hands-on approach will demystify the algorithms and techniques that drive modern artificial intelligence, fostering a deeper appreciation for the complexity and elegance of neural network design.
 
 12h30 - 14h00: Lunch Break
 
