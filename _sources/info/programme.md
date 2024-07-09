@@ -13,7 +13,7 @@
 
 10h20 - 11h00: Coffee Break
 
-11h00 - 13h00: Tutorial 1: Analysis and visualisation of adaptive mesh refinement simulations (Wladimir Banda-Barragán, Yachay Tech)
+11h00 - 13h00: Tutorial 1: Modelling Fluids with Python (Wladimir Banda-Barragán, Yachay Tech)
 
 13h00 - 15h00: Lunch Break
 
@@ -70,7 +70,7 @@
 
 10h40 - 11h00: Coffee Break
 
-11h00 - 13h00: Tutorial 5: Modelling Fluids with Python (Wladimir Banda-Barragán, Yachay Tech)
+11h00 - 13h00: Tutorial 5: Analysis and visualisation of adaptive mesh refinement simulations (Wladimir Banda-Barragán, Yachay Tech)
 
 13h00 - 15h00: Lunch Break
 
@@ -94,11 +94,13 @@ In this session, we will delve into the intricate world of programming a neural 
 
 12h30 - 14h00: Lunch Break
 
-14h00 - 14h40: Plenary Talk: Modeling and estimating geo-referenced count spatial data (Diego Morales, Yachay Tech)
+14h00 - 14h40: Plenary Talk: Explorando el desempeño del aprendizaje profundo en física de altas energías (Daniela Merizalde, USFQ)
 
-14h40 - 15h20: Plenary Talk: Particle Physics Talk (Daniela Merizalde, USFQ)
+![2 - Dany Merizalde](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/c6ed5363-425f-4241-b0ae-e1ed9da0b83e)
 
-15h20 - 17h00: Dorothy Coding Challenge
+Los datos en física de altas energías tienen un volumen inmenso y son complejos. Los algoritmos de aprendizaje automático pueden ofrecer una solución prometedora para el análisis de estos datos. Por tanto, esta investigación evaluó el rendimiento de las redes neuronales convolucionales para clasificar el resultado de las colisiones de partículas de de altas energías utilizando los datos del Portal de Datos Abiertos del CERN.
+
+14h40 - 17h00: Dorothy Coding Challenge
 
 
 # Day 5: Friday 26 July 2024
