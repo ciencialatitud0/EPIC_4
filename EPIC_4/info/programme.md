@@ -145,5 +145,4 @@ Molecular electronics, which applies individual molecules located between two or
 
 # About our speakers:
 
-<img src="[drawing.jpg](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/d8a48fa5-a24f-4818-8b9d-65c48a18443f)" alt="drawing" height="200"/>
-
+<img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/d8a48fa5-a24f-4818-8b9d-65c48a18443f" alt="drawing" width="200"/>
