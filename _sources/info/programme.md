@@ -126,9 +126,7 @@ Los datos en física de altas energías tienen un volumen inmenso y son complejo
 
 •⁠ 09h30 - 09h40: Discussion
 
-09h40 - 10h20: Plenary Talk: 2D NANOELECTRODES FOR SINGLE MOLECULE JUNCTIONS (Henrry Osorio, Escuela Politécnica Nacional)
-
-![Foto (2) - Henrry Marcelo Osorio Calvopiña](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/d8a48fa5-a24f-4818-8b9d-65c48a18443f)
+09h40 - 10h20: Plenary Talk: 2D Nanoelectrods for single module junctions (Henrry Osorio, Escuela Politécnica Nacional)
 
 Molecular electronics, which applies individual molecules located between two or three fixed electrodes to construct an electronic device, has the potential to offer novel technological opportunities. Noble metal electrodes, especially gold, have been extensively used to comprehend the charge transport at metal-molecule-metal junctions. However, there are potential drawbacks of using gold electrodes such as non-compatibility with complementary metal-oxide-semiconductor (CMOS) technologies, surface mobility and high price. In this context, the use of non-metallic electrodes has attracted growing attention as a result of the emergence of new properties and to avoid the use of rare, expensive and potentially toxic materials. Nevertheless, recently used non-metallic novel electrodes in this field, graphene or GaAs, need expensive methods for deposition or to provide optimal electrical contact. In this talk, I will describe our efforts to form and characterize non-symmetric molecular junctions in a simple way using scanning probe microscopy-based methods. Electrical properties of graphene-molecule-gold and MoS2-molecule-gold junctions will be discussed. In both cases, simple exfoliation techniques were used to obtain the non-metallic electrode. In summary, this study paves the way for the use of nanoelectrodes based on 2D-materials to construct single molecule junctions and evaluate charge transport at the molecular level.
 
@@ -145,4 +143,13 @@ Molecular electronics, which applies individual molecules located between two or
 
 # About our speakers:
 
+### Henrry Osorio, Escuela Politécnica Nacional
+
 <img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/d8a48fa5-a24f-4818-8b9d-65c48a18443f" alt="drawing" width="200"/>
+
+BSc in Physics from the Escuela Politécnica Nacional (EPN), Ecuador, in 2010.
+Master's Degree in Nanostructured Materials for Nanotechnological Applications from the University of Zaragoza, Spain, in 2012.
+Ph.D, Cum Laude, in Physical Chemistry from the University of Zaragoza, Spain, in 2015.
+Since 2016, Assistant professor in the Department of Physics at Escuela Politécnica Nacional and member of the electronic and magnetic materials group (GI-MEM), Department of Physics at Escuela Politécnica Nacional.
+Current research interest is mainly focused on the study of electrical properties of two-dimensional materials, individual molecules and molecular assemblies using tunnel effect microscopy and atomic force microscopy.
+Research in collaboration with International Laboratories such as the Institute of Nanoscience and Materials of Aragón (INMA), Spain, and the Department of Chemistry of the University of Liverpool, United Kingdom.
