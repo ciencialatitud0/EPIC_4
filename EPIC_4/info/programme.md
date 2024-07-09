@@ -42,6 +42,8 @@
 
 15h00 - 17h00: Tutorial 4: Introduction to deep learning for bioimage analysis (Andrés Morales-Naverrete, Konstanz)
 
+This hands-on tutorial provides an introductory overview of deep learning techniques tailored for bioimage analysis. Participants will learn fundamental concepts of deep learning, including neural networks, convolutional neural networks (CNNs), and their applications in the analysis of biological images. The tutorial emphasizes practical implementation, guiding attendees through the process of preparing image datasets, training deep learning models, and evaluating their performance. By the end of the session, participants will have gained the skills necessary to apply deep learning methods to their bioimaging projects
+
 
 # Day 3: Wednesday 24 July 2024
 #### Advanced topics on Computational Physics Tools and Machine Learning
@@ -75,6 +77,8 @@
 13h00 - 15h00: Lunch Break
 
 15h00 - 17h00: Tutorial 6: Introduction to Physics-informed Neural Networks (Andrés Morales-Naverrete, U. Konstanz)
+
+This hands-on tutorial offers a introduction to Physics-Informed Neural Networks (PINNs), a cutting-edge approach that integrates physical laws with deep learning techniques. Participants will explore the fundamental principles of PINNs, including their architecture, training process, and applications in solving partial differential equations (PDEs). The tutorial will cover practical aspects such as formulating physical constraints, implementing PINNs using popular deep learning frameworks, and evaluating their accuracy and efficiency.
 
 19h00 - 20h00: Special Dinner
 
