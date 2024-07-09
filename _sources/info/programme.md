@@ -100,8 +100,6 @@ In this session, we will delve into the intricate world of programming a neural 
 
 14h00 - 14h40: Plenary Talk: Explorando el desempeño del aprendizaje profundo en física de altas energías (Daniela Merizalde, USFQ)
 
-![2 - Dany Merizalde](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/c6ed5363-425f-4241-b0ae-e1ed9da0b83e)
-
 Los datos en física de altas energías tienen un volumen inmenso y son complejos. Los algoritmos de aprendizaje automático pueden ofrecer una solución prometedora para el análisis de estos datos. Por tanto, esta investigación evaluó el rendimiento de las redes neuronales convolucionales para clasificar el resultado de las colisiones de partículas de de altas energías utilizando los datos del Portal de Datos Abiertos del CERN.
 
 14h40 - 17h00: Dorothy Coding Challenge
@@ -148,8 +146,20 @@ Molecular electronics, which applies individual molecules located between two or
 <img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/d8a48fa5-a24f-4818-8b9d-65c48a18443f" alt="drawing" width="200"/>
 
 BSc in Physics from the Escuela Politécnica Nacional (EPN), Ecuador, in 2010.
+
 Master's Degree in Nanostructured Materials for Nanotechnological Applications from the University of Zaragoza, Spain, in 2012.
+
 Ph.D, Cum Laude, in Physical Chemistry from the University of Zaragoza, Spain, in 2015.
+
 Since 2016, Assistant professor in the Department of Physics at Escuela Politécnica Nacional and member of the electronic and magnetic materials group (GI-MEM), Department of Physics at Escuela Politécnica Nacional.
+
 Current research interest is mainly focused on the study of electrical properties of two-dimensional materials, individual molecules and molecular assemblies using tunnel effect microscopy and atomic force microscopy.
+
 Research in collaboration with International Laboratories such as the Institute of Nanoscience and Materials of Aragón (INMA), Spain, and the Department of Chemistry of the University of Liverpool, United Kingdom.
+
+
+### Daniela Merizalde, Universidad San Francisco de Quito
+
+<img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/c6ed5363-425f-4241-b0ae-e1ed9da0b83e" alt="drawing" width="200"/>
+
+Me gradué de física en la USFQ.  Actualmente estoy estudiando el másterado en física de altas energía dentro de la USQ. Me interesa el campo de relatividad general y averiguar cómo los modelos de machine learning se pueden aplicar a la físca. 
