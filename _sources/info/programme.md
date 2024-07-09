@@ -141,7 +141,7 @@ Molecular electronics, which applies individual molecules located between two or
 
 ### Henrry Osorio, Escuela Politécnica Nacional
 
-<img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/d8a48fa5-a24f-4818-8b9d-65c48a18443f" alt="drawing" width="200"/>
+<img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/d8a48fa5-a24f-4818-8b9d-65c48a18443f" alt="drawing" height="250"/>
 
 BSc in Physics from the Escuela Politécnica Nacional (EPN), Ecuador, in 2010.
 
@@ -158,18 +158,18 @@ Research in collaboration with International Laboratories such as the Institute 
 
 ### Daniela Merizalde, Universidad San Francisco de Quito
 
-<img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/c6ed5363-425f-4241-b0ae-e1ed9da0b83e" alt="drawing" width="200"/>
+<img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/c6ed5363-425f-4241-b0ae-e1ed9da0b83e" alt="drawing" height="250"/>
 
 Me gradué de física en la USFQ.  Actualmente estoy estudiando el másterado en física de altas energía dentro de la USQ. Me interesa el campo de relatividad general y averiguar cómo los modelos de machine learning se pueden aplicar a la físca. 
 
 ### Benjamín de Zayas, Universidad Yachay Tech
 
-<img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/cab79d48-77ab-4349-b982-ec5e9bc46d3f" alt="drawing" width="200"/>
+<img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/cab79d48-77ab-4349-b982-ec5e9bc46d3f" alt="drawing" height="250"/>
 
 Benjamin de Zayas is a nuclear physicist with experience in medical physics. He holds a master's degree in mathematics, where he researched Clifford algebras and quantum field theory. Currently, he is pursuing a master's in artificial intelligence and a PhD in applied mathematics and artificial intelligence, focusing on the inverse problem of imaging. His research interests include geometric algebras, quantum field theory, and machine learning methods applied to inverse imaging problems. Benjamin's work integrates mathematics, physics, and AI to address complex scientific challenges
 
 ### Andrés Morales-Navarrete, Universität Konstansz
 
-<img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/7c0a7475-3b4c-4669-97c8-651db18e7ba7" alt="drawing" width="200"/>
+<img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/7c0a7475-3b4c-4669-97c8-651db18e7ba7" alt="drawing" height="250"/>
 
 Andres is scientist in computational biology and biophysics,  specialized in deep learning, tissue modelling and active matter physics. He holds a PhD from the Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany. He also has an MSc and BSc in Physics from Escuela Politécnica Nacional, Quito, Ecuador. Andre's professional experience includes postdoctoral research at the University of Konstanz and the Max Planck Institute. His contributions to computational embryology were recognized as part of the Method of the Year 2023 by Nature Methods. His current research interests include bioimage analysis and deep learning applications in developmental biology. 
