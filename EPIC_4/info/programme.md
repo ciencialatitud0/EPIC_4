@@ -92,8 +92,6 @@ This hands-on tutorial offers a introduction to Physics-Informed Neural Networks
 
 10h30 - 12h30: Tutorial 8: Programming a neural network from scratch, without using libraries (Benjamín de Zayas, Yachay Tech)
 
-![tamaño carnet foto - MAKE IT REAL](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/cab79d48-77ab-4349-b982-ec5e9bc46d3f)
-
 In this session, we will delve into the intricate world of programming a neural network from scratch, bypassing the convenience of pre-built libraries. Our journey will emphasize the mathematical foundations underpinning neural networks, providing a thorough understanding of how these powerful models function at a granular level. We will explore key concepts such as linear transformations, activation functions, forward and backward propagation, and gradient descent. By the end of the class, attendees will have a concrete understanding of the inner workings of neural networks and will be equipped with the skills to implement them using only basic programming constructs. This hands-on approach will demystify the algorithms and techniques that drive modern artificial intelligence, fostering a deeper appreciation for the complexity and elegance of neural network design.
 
 12h30 - 14h00: Lunch Break
@@ -163,3 +161,9 @@ Research in collaboration with International Laboratories such as the Institute 
 <img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/c6ed5363-425f-4241-b0ae-e1ed9da0b83e" alt="drawing" width="200"/>
 
 Me gradué de física en la USFQ.  Actualmente estoy estudiando el másterado en física de altas energía dentro de la USQ. Me interesa el campo de relatividad general y averiguar cómo los modelos de machine learning se pueden aplicar a la físca. 
+
+### Benjamín de Zayas, Universidad Yachay Tech
+
+<img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/cab79d48-77ab-4349-b982-ec5e9bc46d3f" alt="drawing" width="200"/>
+
+Benjamin de Zayas is a nuclear physicist with experience in medical physics. He holds a master's degree in mathematics, where he researched Clifford algebras and quantum field theory. Currently, he is pursuing a master's in artificial intelligence and a PhD in applied mathematics and artificial intelligence, focusing on the inverse problem of imaging. His research interests include geometric algebras, quantum field theory, and machine learning methods applied to inverse imaging problems. Benjamin's work integrates mathematics, physics, and AI to address complex scientific challenges
