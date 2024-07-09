@@ -1,7 +1,6 @@
 # Scientific Programme
 
-![EPIC4_Programme_v4](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/85c54e56-fe67-4619-9fb7-f350498966dd)
-
+![EPIC4_Programme_v5](https://github.com/ciencialatitud0/EPIC_4/assets/30240951/db6f0504-f641-4aa2-9137-9a53df0693ea)
 
 # Day 1: Monday 22 July 2024
 #### Computational Physics Tools, Data Analysis and Machine Learning I
