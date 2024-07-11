@@ -56,10 +56,10 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
 2. Type the command below:<br>
 ~~~~html
   $ conda --version
-  conda 4.10.3
+  conda 24.1.2
 ~~~~
 
-3. That means you have Anaconda 4.10.3 installed.<br>
+3. That means you have anaconda 24.1.2 installed.<br>
 
 4. Now, let us check which environment you have:<br>
 ~~~~html
@@ -93,7 +93,7 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
 
 8. Let's install a few extra libraries:<br>
 ~~~~html
-  $ conda install jupyter numpy cython mpi4py git
+  $ conda install jupyter numpy scipy matplotlib mpi4py git
 ~~~~
 
 9. Type 'yes' to accept changes, and check that the new libraries are present.<br>
@@ -131,4 +131,8 @@ Assumming all the steps above went well, and you were able to create your first 
 - https://swcarpentry.github.io/python-novice-gapminder/
 
 Please note that we will **NOT** have time to cover the basics in the School, so make sure you are familiar with the material above.
+
+# Highly recommended preliminary tutorials:
+
+
 
