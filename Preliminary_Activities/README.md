@@ -24,7 +24,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 1. Log into your Google account.
 
-2. Open the first notebook: 
+2. Open this notebook: https://github.com/ciencialatitud0/EPIC_4/blob/main/Preliminary_Activities/2_notebook.ipynb
 
 3. Clic on "Open in Google Colab".
 
@@ -32,7 +32,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 5. If you see a plot of sin(x) vs. x and the image of the Cotopaxi volcano, your local Google Colab works.
 
-6. Congrats, you are ready to follow all the python tutorials of EPIC 2.
+6. Congrats, you are ready to follow all the python tutorials of the School.
 
 
 ## OPTION 2: Anaconda/Miniconda (see https://anaconda.org/):
@@ -70,20 +70,20 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
 
 5. Let us know create a new environment with:<br>
 ~~~~html
-  $ conda create -n py37 python=3.7
+  $ conda create -n py39 python=3.9
   $ conda env list
   conda environments:
   base                  *  /Users/webb/opt/anaconda3
-  py37                     /Users/webb/opt/anaconda3/envs/py37
+  py39                     /Users/webb/opt/anaconda3/envs/py39
 ~~~~
 
 6. Now, we activate the environment:<br>
 ~~~~html
-  $ conda activate py37
+  $ conda activate py39
   $ conda env list
   conda environments:
   base                     /Users/webb/opt/anaconda3
-  py37                  *  /Users/webb/opt/anaconda3/envs/py37
+  py39                  *  /Users/webb/opt/anaconda3/envs/py39
 ~~~~
 
 7. Let us check with libraries are installed by default:<br>
@@ -106,10 +106,9 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
   $ jupyter notebook
 ~~~~
 
-10. Once the notebook is open, you can start coding your first notebook:<br>
+10. Once the notebook is open, you can start coding your notebook:<br>
 
-[https://github.com/ciencialatitud0/EPIC_2/blob/main/Day0/my_first_notebook.ipynb](https://github.com/ciencialatitud0/EPIC_2/blob/main/Day0/my_first_python_notebook.ipynb)
-
+https://github.com/ciencialatitud0/EPIC_4/blob/main/Preliminary_Activities/2_notebook.ipynb
 
 ### On Windows:
 If you are using Windows, we highly recommend either:
@@ -131,5 +130,5 @@ Assumming all the steps above went well, and you were able to create your first 
 - https://datacarpentry.org/python-ecology-lesson/jupyter_notebooks/
 - https://swcarpentry.github.io/python-novice-gapminder/
 
-Please note that we will **NOT** have time to cover the basics in EPIC 3, so make sure you are familiar with the material above.
+Please note that we will **NOT** have time to cover the basics in the School, so make sure you are familiar with the material above.
 
