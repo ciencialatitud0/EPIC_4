@@ -2,7 +2,11 @@
 
 Please read carefully all the information given below.
 
-This School focuses mainly on python, but there are a few lectures on R and ROOT too (https://www.r-project.org/). We will use python 3.x (as python2 is not supported anymore). Similarly, we will mainly use jupyter notebooks (.ipynb) for the courses taught at this School.
+This School focuses mainly on python, but there are a few lectures on Matlab and R too (https://www.r-project.org/).  All the code will be shared on github, so we recommend reading the basics on using GIT:
+
+https://github.com/ciencialatitud0/EPIC_4/blob/main/Preliminary_Activities/1_introgit.pdf
+
+We will use python 3.x and jupyter notebooks (.ipynb) for the courses taught at this School.
 
 - Jupyter notebooks are very useful tools for learning programming because they provide a nice visual and interactive interface.
 
@@ -14,13 +18,13 @@ To be able to use python and jupyter notebooks in your laptop, there are several
 
 **Important Note: We highly recommend this option for participants with little programming experience.**
 
-One option is to use Google Colab, for which you would need a Google account, which can be a personal gmail account or an institutional email account supported by Google (e.g. all Yachay Tech accounts are Google accounts). The advantage of using Google Colab is that all libraries are installed in a Linux server remotely, so we don't need to worry about compatibility issues, different operating systems, etc. The disadvantage is that Colab provides limited memory and computing resources as everything runs in a cloud, so you can only use it to process small datasets.
+One option is to use Google Colab, for which you would need a Google account, which can be a personal gmail account or an institutional email account supported by Google. The advantage of using Google Colab is that all libraries are installed in a Linux server remotely, so we don't need to worry about compatibility issues, different operating systems, etc. The disadvantage is that Colab provides limited RAM memory, limited space, and computing resources as everything runs in a cloud, so you can only use it to process small datasets. Google Colab will be sufficient to follow all the exercises developed in the School.
 
 ## How do I test Google Colab?
 
 1. Log into your Google account.
 
-2. Open this notebook: [https://github.com/ciencialatitud0/EPIC_2/blob/main/Day0/my_first_notebook.ipynb](https://github.com/ciencialatitud0/EPIC_2/blob/main/Day0/my_first_python_notebook.ipynb)
+2. Open the first notebook: 
 
 3. Clic on "Open in Google Colab".
 
