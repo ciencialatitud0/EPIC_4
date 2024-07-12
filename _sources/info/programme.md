@@ -172,7 +172,7 @@ Benjamin de Zayas is a nuclear physicist with experience in medical physics. He 
 
 ### Fernanda Paulina Vizcaíno Imacaña, UIDE
 
-![PAULINAVIZCAINO_COMPUTACION3 - Paulina Vizcaino](https://github.com/user-attachments/assets/8b184b93-aabf-4954-85da-a98de5fdbd84)
+<img src="https://github.com/user-attachments/assets/8b184b93-aabf-4954-85da-a98de5fdbd84" alt="drawing" height="250"/>
 
 
 Líder de la Escuela de Ciencias de la Computación de la UIDE con un profundo interés en la intersección entre la tecnología y el aprendizaje. Con un doctorado en Educación y una formación inicial como ingeniera informática, tiene interés en los campos cómo la programación, la ciencia de datos y la inteligencia artificial aplicada.
