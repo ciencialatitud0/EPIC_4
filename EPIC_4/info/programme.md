@@ -68,6 +68,8 @@ This hands-on tutorial provides an introductory overview of deep learning techni
 
 09h20 - 10h00: Plenary Talk: Machine learning applications: classification algorithms (Paulina Vizcaíno, UIDE)
 
+El aprendizaje automático ha revolucionado numerosos campos al permitir el desarrollo de sistemas que aprenden de los datos y realizan predicciones. Entre las diversas tareas de aprendizaje automático, la clasificación es una de las fundamentales, ya que el objetivo es clasificar los datos en clases predefinidas. Este charla proporciona una visión general de los algoritmos de clasificación más populares, incluidos los árboles de decisión, la regresión logística, los vecinos más cercanos y las redes neuronales.
+
 10h00 - 10h40: Plenary Talk: Data visualisation (Iván Reyes, UIDE)
 
 10h40 - 11h00: Coffee Break
@@ -167,6 +169,13 @@ Me gradué de física en la USFQ.  Actualmente estoy estudiando el másterado en
 <img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/cab79d48-77ab-4349-b982-ec5e9bc46d3f" alt="drawing" height="250"/>
 
 Benjamin de Zayas is a nuclear physicist with experience in medical physics. He holds a master's degree in mathematics, where he researched Clifford algebras and quantum field theory. Currently, he is pursuing a master's in artificial intelligence and a PhD in applied mathematics and artificial intelligence, focusing on the inverse problem of imaging. His research interests include geometric algebras, quantum field theory, and machine learning methods applied to inverse imaging problems. Benjamin's work integrates mathematics, physics, and AI to address complex scientific challenges
+
+### Fernanda Paulina Vizcaíno Imacaña, UIDE
+
+![PAULINAVIZCAINO_COMPUTACION3 - Paulina Vizcaino](https://github.com/user-attachments/assets/8b184b93-aabf-4954-85da-a98de5fdbd84)
+
+
+Líder de la Escuela de Ciencias de la Computación de la UIDE con un profundo interés en la intersección entre la tecnología y el aprendizaje. Con un doctorado en Educación y una formación inicial como ingeniera informática, tiene interés en los campos cómo la programación, la ciencia de datos y la inteligencia artificial aplicada.
 
 ### Andrés Morales-Navarrete, Universität Konstansz
 
