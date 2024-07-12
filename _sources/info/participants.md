@@ -55,3 +55,20 @@ David Lara, Yachay Tech University, Ecuador
 Juan David Moromenacho Aguirre, UIDE, Ecuador
 
 Jorge Oswaldo Cedeño Cedeño, ESPOCH, Ecuador
+
+Juan Daniel Vásconez Vela, Yachay Tech University, Ecuador
+
+Santiago Michael Jiménez Orellana, UIDE, Ecuador
+
+Alvaro David Pérez Arce,  ESPOCH, Ecuador
+
+Oswaldo Julio Ramírez Delgado, ESPE, Ecuador
+
+Katherine Nicole Quezada Hidalgo, CENAMEP AIP, Panamá
+
+
+
+
+
+
+
