@@ -123,15 +123,6 @@ After the installation of the WSL is successful, follow the instructions provide
 
 In the long term, you may want to fully switch to Unix-based operating systems. Ubuntu is a popular and user-friendly option.
 
-
-## How do I test and use Anaconda?
-Assumming all the steps above went well, and you were able to create your first jupyter notebook, open a new notebook and follow these two tutorials on jupyter notebooks and basic python:
-
-- https://datacarpentry.org/python-ecology-lesson/jupyter_notebooks/
-- https://swcarpentry.github.io/python-novice-gapminder/
-
-Please note that we will **NOT** have time to cover the basics in the School, so make sure you are familiar with the material above.
-
 # Highly recommended preliminary tutorials:
 
 If you have little or no python programming experience, we highly recommend to follow all these tutorials before EPIC starts:
@@ -142,3 +133,7 @@ If you have little or no python programming experience, we highly recommend to f
 - https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/107-Python-Functions.ipynb
 - https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/108-Data-Input-Output.ipynb
 - https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/109-Data-IO-Pandas.ipynb
+
+- https://swcarpentry.github.io/python-novice-gapminder/
+
+Please note that we will **NOT** have time to cover the basics in the School, so make sure you are familiar with the material above.
