@@ -114,12 +114,12 @@ https://github.com/ciencialatitud0/EPIC_4/blob/main/Preliminary_Activities/2_not
 If you are using Windows, we highly recommend either:
 
 1. setting up a dual partition in your hard drive with both Windows and Linux, or
-2. setting up a Virtual Machine (VM) with a linux distribution. For this:
+2. setting installing WSL (Windows Subsystem for Linux):
 
-- Download VirtualBox from: https://www.virtualbox.org/
-- Follow the instructions here: https://itsfoss.com/install-linux-in-virtualbox/
+- Instructions to install and set up WSL: https://learn.microsoft.com/en-us/windows/wsl/install
+- More information on WSL: https://learn.microsoft.com/en-us/windows/wsl/about
 
-After the installation of the VM is successful, follow the instructions provided above for Linux/MacOSX systems to set up your Anaconda installation.
+After the installation of the WSL is successful, follow the instructions provided above for Linux/MacOSX systems to set up your Anaconda installation.
 
 In the long term, you may want to fully switch to Unix-based operating systems. Ubuntu is a popular and user-friendly option.
 
