@@ -181,4 +181,18 @@ Líder de la Escuela de Ciencias de la Computación de la UIDE con un profundo i
 
 <img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/7c0a7475-3b4c-4669-97c8-651db18e7ba7" alt="drawing" height="250"/>
 
-Andres is scientist in computational biology and biophysics,  specialized in deep learning, tissue modelling and active matter physics. He holds a PhD from the Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany. He also has an MSc and BSc in Physics from Escuela Politécnica Nacional, Quito, Ecuador. Andre's professional experience includes postdoctoral research at the University of Konstanz and the Max Planck Institute. His contributions to computational embryology were recognized as part of the Method of the Year 2023 by Nature Methods. His current research interests include bioimage analysis and deep learning applications in developmental biology. 
+Andres is scientist in computational biology and biophysics, specialized in deep learning, tissue modelling and active matter physics. He holds a PhD from the Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany. He also has an MSc and BSc in Physics from Escuela Politécnica Nacional, Quito, Ecuador. Andre's professional experience includes postdoctoral research at the University of Konstanz and the Max Planck Institute. His contributions to computational embryology were recognized as part of the Method of the Year 2023 by Nature Methods. His current research interests include bioimage analysis and deep learning applications in developmental biology. 
+
+### Wladimir Banda-Barragán, Universidad Yachay Tech
+
+Wladimir is a computational astrophysicist working at the boundary between astrophysical gas dynamics and magnetohydrodynamics. Wladimir did his undergraduate studies at the Physics Department of Escuela Politécnica Nacional in Quito, and completed his PhD at the Research School of Astronomy and Astrophysics of the Australian National University in Canberra.
+
+Wladimir has worked as a physics lecturer and astrophysics researcher at several institutes, including Ecuador’s Meteorology Office (INAMHI), Observatorio Astronómico de Quito, Universidad Técnica de Ambato, Hamburg Observatory of Hamburg University, and more recently he joined Universidad Yachay Tech in Urcuquí.
+
+### Helga Dénes, Universidad Yachay Tech
+
+<img src="https://github.com/user-attachments/assets/26016cc2-4515-4055-84a5-f54f149f7f8e" alt="drawing" height="250"/>
+
+Helga Dénes has a Masters degree in Astronomy from the Eötwös Lórand University in Budapest, Hungary. She obtain her PhD in Astrophysics in 2015 from Swinburne University of Technology in Melbourne, Australia. After her PhD she was a postdoctoral researcher jointly at CSIRO Astronomy and Space Science in Sydney and at The Australian National University in Canberra, Australia. After finishing her position in Sydney she was a postdoctoral researcher at ASTRON, The Netherlands Institute for Radio Astronomy. At the moment she is a Professor at Yachay Tech University in the School of Physical Sciences and Nanotechnology.
+
+Helga’s main scientific interest is how the gas content of galaxies influences their evolution. She works on both extragalactic and Galactic astrophysics topics and is a member of several large radio astronomy survey teams, such as the Apertif Imaging Surveys, the WALLABY Survey and the GASKAP Survey.
