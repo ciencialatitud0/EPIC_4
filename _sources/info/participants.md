@@ -63,3 +63,5 @@ Santiago Michael Jiménez Orellana, UIDE, Ecuador
 Alvaro David Pérez Arce,  ESPOCH, Ecuador
 
 Oswaldo Julio Ramírez Delgado, ESPE, Ecuador
+
+Daniela Merizalde, USFQ, Ecuador
