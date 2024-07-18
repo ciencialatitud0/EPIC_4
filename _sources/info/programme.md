@@ -24,9 +24,9 @@ In this tutorial we will look into modelling fluids (gases) by using numerical t
 # Day 2: Tuesday 23 July 2024
 #### Computational Physics Tools, Data Analysis and Machine Learning II
 
-08h00 - 08h40: Outreach talk: La dilatación del tiempo en la relatividad especial de Albert Einstein: conferencia teórico experimental (Nelson Herrera, UIDE)
+08h30 - 09h10: Outreach talk: La dilatación del tiempo en la relatividad especial de Albert Einstein: conferencia teórico experimental (Nelson Herrera, UIDE)
 
-08h40 - 10h40: UIDE Laboratory Tour
+09h10 - 10h40: UIDE Laboratory Tour
 
 •⁠ ⁠Tour around the Technical Sciences facilities.
 
@@ -39,6 +39,8 @@ In this tutorial we will look into modelling fluids (gases) by using numerical t
 10h40 - 11h00: Coffee Break
 
 11h00 - 13h00: Tutorial 3: Analysis and visualisation of adaptive mesh refinement simulations (Wladimir Banda-Barragán, Yachay Tech)
+
+In this tutorial, which is a follow-up of tutorial 1, we will discuss structured and unstructured meshgrids used in computational fluid dynamics. We will look at techniques and methods used to analyse and visualise several simulation data files, written in both grid types.
 
 13h00 - 15h00: Lunch Break
 
