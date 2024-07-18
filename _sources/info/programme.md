@@ -15,9 +15,11 @@
 
 11h00 - 13h00: Tutorial 1: Modelling Fluids with Python (Wladimir Banda-Barragán, Yachay Tech)
 
+In this tutorial we will look into modelling fluids (gases) by using numerical techniques in python. Specifically, we will build a python routine to study the evolution of subsonic waves and shocks in 2D meshgrids. 
+
 13h00 - 15h00: Lunch Break
 
-15h00 - 17h00: Tutorial 2: Artificial Intelligence Application (Eugenio Morocho, Yachay Tech)
+15h00 - 17h00: Tutorial 2: Star formation in galaxies using SDSS data (Helga Dénes, Yachay Tech)
 
 # Day 2: Tuesday 23 July 2024
 #### Computational Physics Tools, Data Analysis and Machine Learning II
@@ -36,7 +38,7 @@
 
 10h40 - 11h00: Coffee Break
 
-11h00 - 13h00: Tutorial 3: Star formation in galaxies using SDSS data (Helga Dénes, Yachay Tech)
+11h00 - 13h00: Tutorial 3: Analysis and visualisation of adaptive mesh refinement simulations (Wladimir Banda-Barragán, Yachay Tech)
 
 13h00 - 15h00: Lunch Break
 
@@ -74,7 +76,9 @@ El aprendizaje automático ha revolucionado numerosos campos al permitir el desa
 
 10h40 - 11h00: Coffee Break
 
-11h00 - 13h00: Tutorial 5: Analysis and visualisation of adaptive mesh refinement simulations (Wladimir Banda-Barragán, Yachay Tech)
+11h00 - 13h00: Tutorial 5: Building Generative AI Apps (Manuel Eugenio Morocho Cayamcela, Yachay Tech)
+
+In this tutorial, we'll explore some tools and frameworks to help you build your first generative AI application.
 
 13h00 - 15h00: Lunch Break
 
