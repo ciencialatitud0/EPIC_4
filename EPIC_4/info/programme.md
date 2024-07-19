@@ -2,7 +2,6 @@
 
 ![Programa_EPIC4_v6](https://github.com/user-attachments/assets/99a313cc-ed18-438a-bdb3-d72bab01b9ad)
 
-
 # Day 1: Monday 22 July 2024
 #### Computational Physics Tools, Data Analysis and Machine Learning I
 
@@ -112,49 +111,59 @@ This hands-on tutorial offers an introduction to Physics-Informed Neural Network
 # Day 4: Thursday 25 July 2024
 ### Model based design and Data Analysis
 
-08h00 - 10h00: Tutorial 7: Model based design with Matlab – Simulink (Vladimir Bonilla, UIDE)
+08h30 - 10h30: Tutorial 7: Model based design with Matlab – Simulink (Vladimir Bonilla, UIDE)
 
-10h00 - 10h30: Coffee Break
+Model-based design with MATLAB and Simulink is a powerful approach for developing complex control systems and embedded software. This tutorial provides a guide on how to create, simulate models, enabling rapid prototyping and efficient system verification. Discover the integration of MIL, SIL and PIL testing and code generation to streamline your development process.
 
-10h30 - 12h30: Tutorial 8: Programming a neural network from scratch, without using libraries (Benjamín de Zayas, Yachay Tech)
+10h30 - 11h00: Coffee Break
+
+11h00 - 13h00: Tutorial 8: Programming a neural network from scratch, without using libraries (Benjamín de Zayas, Yachay Tech)
 
 In this session, we will delve into the intricate world of programming a neural network from scratch, bypassing the convenience of pre-built libraries. Our journey will emphasize the mathematical foundations underpinning neural networks, providing a thorough understanding of how these powerful models function at a granular level. We will explore key concepts such as linear transformations, activation functions, forward and backward propagation, and gradient descent. By the end of the class, attendees will have a concrete understanding of the inner workings of neural networks and will be equipped with the skills to implement them using only basic programming constructs. This hands-on approach will demystify the algorithms and techniques that drive modern artificial intelligence, fostering a deeper appreciation for the complexity and elegance of neural network design.
 
-12h30 - 14h00: Lunch Break
+13h00 - 14h30: Lunch Break
 
-14h00 - 14h40: Plenary Talk: Explorando el desempeño del aprendizaje profundo en física de altas energías (Daniela Merizalde, USFQ)
+14h30 - 15h10: Plenary Talk: Explorando el desempeño del aprendizaje profundo en física de altas energías (Daniela Merizalde, USFQ)
 
 Los datos en física de altas energías tienen un volumen inmenso y son complejos. Los algoritmos de aprendizaje automático pueden ofrecer una solución prometedora para el análisis de estos datos. Por tanto, esta investigación evaluó el rendimiento de las redes neuronales convolucionales para clasificar el resultado de las colisiones de partículas de de altas energías utilizando los datos del Portal de Datos Abiertos del CERN.
 
-14h40 - 17h00: Dorothy Coding Challenge
+15h10 - 15h50: Plenary Talk: Data visualisation (Iván Reyes, UIDE)
+
+15h50 - 17h00: Dorothy Coding Challenge
 
 
 # Day 5: Friday 26 July 2024
 ### EPIC 4 Student Presentations
 
-08h00 - 09h40: Student group presentations (12min + 3min per group)
+08h30 - 10h00: Student group presentations (7min + 3min per group)
 
-•⁠ 08h00 - 08h15: Group 1
+•⁠ 08h30 - 08h40: Group 1
 
-•⁠ 08h15 - 08h30: Group 2
+•⁠ 08h40 - 08h50: Group 2
 
-•⁠ 08h30 - 08h45: Group 3
+•⁠ 08h50 - 09h00: Group 3
 
-•⁠ 08h45 - 09h00: Group 4
+•⁠ 09h00 - 09h10: Group 4
 
-•⁠ 09h00 - 09h15: Group 5
+•⁠ 09h10 - 09h20: Group 5
 
-•⁠ 09h15 - 09h30: Group 6
+•⁠ 09h20 - 09h30: Group 6
 
-•⁠ 09h30 - 09h40: Discussion
+•⁠ 09h30 - 09h40: Group 7
 
-09h40 - 10h20: Plenary Talk: 2D Nanoelectrods for single module junctions (Henrry Osorio, Escuela Politécnica Nacional)
+•⁠ 09h40 - 09h50: Group 8
+
+•⁠ 09h50 - 10h00: Discussion
+
+10h00 - 10h40: Plenary Talk: 2D Nanoelectrods for single module junctions (Henrry Osorio, Escuela Politécnica Nacional)
 
 Molecular electronics, which applies individual molecules located between two or three fixed electrodes to construct an electronic device, has the potential to offer novel technological opportunities. Noble metal electrodes, especially gold, have been extensively used to comprehend the charge transport at metal-molecule-metal junctions. However, there are potential drawbacks of using gold electrodes such as non-compatibility with complementary metal-oxide-semiconductor (CMOS) technologies, surface mobility and high price. In this context, the use of non-metallic electrodes has attracted growing attention as a result of the emergence of new properties and to avoid the use of rare, expensive and potentially toxic materials. Nevertheless, recently used non-metallic novel electrodes in this field, graphene or GaAs, need expensive methods for deposition or to provide optimal electrical contact. In this talk, I will describe our efforts to form and characterize non-symmetric molecular junctions in a simple way using scanning probe microscopy-based methods. Electrical properties of graphene-molecule-gold and MoS2-molecule-gold junctions will be discussed. In both cases, simple exfoliation techniques were used to obtain the non-metallic electrode. In summary, this study paves the way for the use of nanoelectrodes based on 2D-materials to construct single molecule junctions and evaluate charge transport at the molecular level.
 
-10h20 - 11h00: Coffee Break
+10h40 - 11h00: Coffee Break
 
-11h00 - 11h40: Plenary Talk: Relativistic Quantum Mechanics (Clara Rojas, Yachay Tech)
+11h00 - 11h40: Plenary Talk: Scattering solutions of the DKP equation with the cusp potential barrier (Clara Rojas, Yachay Tech)
+
+In this work, we solve the Duffin--Kemmer--Petiau (DKP) equation in the presence of the cusp potential for spin--one particles. We derived the scattering solutions  in terms of the Whittaker functions. We show that transmission resonances are present.
 
 11h40 - 12h20: Women in STEM Forum
 
@@ -186,7 +195,7 @@ Research in collaboration with International Laboratories such as the Institute 
 
 <img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/c6ed5363-425f-4241-b0ae-e1ed9da0b83e" alt="drawing" height="250"/>
 
-Me gradué de física en la USFQ.  Actualmente estoy estudiando el másterado en física de altas energía dentro de la USQ. Me interesa el campo de relatividad general y averiguar cómo los modelos de machine learning se pueden aplicar a la físca. 
+Me gradué de física en la USFQ.  Actualmente estoy estudiando el másterado en física de altas energía dentro de la USQ. Me interesa el campo de relatividad general y averiguar cómo los modelos de machine learning se pueden aplicar a la física. 
 
 ### Benjamín de Zayas, Universidad Yachay Tech
 
@@ -207,11 +216,35 @@ Líder de la Escuela de Ciencias de la Computación de la UIDE con un profundo i
 
 Andres is scientist in computational biology and biophysics, specialized in deep learning, tissue modelling and active matter physics. He holds a PhD from the Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany. He also has an MSc and BSc in Physics from Escuela Politécnica Nacional, Quito, Ecuador. Andre's professional experience includes postdoctoral research at the University of Konstanz and the Max Planck Institute. His contributions to computational embryology were recognized as part of the Method of the Year 2023 by Nature Methods. His current research interests include bioimage analysis and deep learning applications in developmental biology. 
 
+### Vladimir Bonilla, UIDE
+
+I am Vladimir Bonilla, a professor at the School of Mechatronics at UIDE. I specialize in the design of medical equipment and have a passion for control systems of these machines. I focus on the design of embedded systems, particularly for controlling prostheses or exoskeletons.
+
+### Eugenio Morocho, Universidad Yachay Tech
+
+<img src="https://github.com/user-attachments/assets/cab0b33e-4c6b-4dfa-b48f-d799edea4e8d" alt="drawing" height="250"/>
+
+Full-time professor at Yachay Tech University for the courses Computer Vision, Artificial Intelligence, and Networks. His currest research interests are using AI-based tools to improve engineering processes.
+
+### Clara Rojas, Universidad Yachay Tech
+
+<img src="https://github.com/user-attachments/assets/3aab9be0-bab1-444e-a274-713d11168a32" alt="drawing" height="250"/>
+
+Short biography: Ph. D: Instituto Venezolano de Investigaciones Cientificas IVIC (Venezuela), Postdoctorado e Investigadora: Instituto Venezolano de Investigaciones Cientificas IVIC hasta 2017, Docente e Investigadora: Universidad Yachay TECH desde 2017 hasta la actualidad. Research interest: Cosmologia Inflacionaria y Mecanica Cuantica Relativista.
+
+### Diego Morales, Universidad Yachay Tech
+
+<img src="https://github.com/user-attachments/assets/b7453631-c260-4c56-a7dc-3eabb47bbbdb" alt="drawing" height="250"/>
+
+I am a mathematical engineer working on theoretical approaches for modelling spatio-temporal non-gaussian data. I am particularly interested in working on the theoretical and methodological development of space-time stochastic models for non-Gaussian data. I completed an undergraduate program in mathematical engineering at Escuela Politécnica Nacional in Quito-Ecuador. Then, I worked as a researcher and statistician in public and private companies in Ecuador for a few years. In the beginning of 2022, I obtained a Ph.D. degree in Statistics at the Department of Statistics of Pontificia Universidad Católica de Chile. As a doctoral researcher under the supervision of Prof. Mauricio Castro and Prof. Moreno Bevilacqua, I was working on developing novel approaches for modelling spatial and spatio-temporal count data. Additionally, I was part of the Center for the Discovery of Structures in Complex Data MiDas as a PhD student and guest researcher at the Department of Biology at the University of Konstanz. Currently, I am a research professor at Yachay Tech University.
+
 ### Wladimir Banda-Barragán, Universidad Yachay Tech
+
+<img src="https://github.com/user-attachments/assets/5db112d0-27f1-496b-b65e-ac8879d4b068" alt="drawing" height="250"/>
 
 Wladimir is a computational astrophysicist working at the boundary between astrophysical gas dynamics and magnetohydrodynamics. Wladimir did his undergraduate studies at the Physics Department of Escuela Politécnica Nacional in Quito, and completed his PhD at the Research School of Astronomy and Astrophysics of the Australian National University in Canberra.
 
-Wladimir has worked as a physics lecturer and astrophysics researcher at several institutes, including Ecuador’s Meteorology Office (INAMHI), Observatorio Astronómico de Quito, Universidad Técnica de Ambato, Hamburg Observatory of Hamburg University, and more recently he joined Universidad Yachay Tech in Urcuquí.
+Wladimir has worked as a physics lecturer and astrophysics researcher at several institutes, including Ecuador’s Meteorology Office (INAMHI), Observatorio Astronómico de Quito, Universidad Técnica de Ambato, the Australian National University in Canberra, Hamburg Observatory of Hamburg University, and more recently he joined Universidad Yachay Tech in Urcuquí.
 
 ### Helga Dénes, Universidad Yachay Tech
 
