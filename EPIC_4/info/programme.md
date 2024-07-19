@@ -1,6 +1,7 @@
 # Scientific Programme
 
-![Programa_EPIC4_v6](https://github.com/user-attachments/assets/99a313cc-ed18-438a-bdb3-d72bab01b9ad)
+![Programa_EPIC4_v7](https://github.com/user-attachments/assets/2044a389-a257-4c1a-8715-449b1e51cee4)
+
 
 # Day 1: Monday 22 July 2024
 #### Computational Physics Tools, Data Analysis and Machine Learning I
@@ -26,7 +27,7 @@ In this tutorial we will look into modelling fluids (gases) by using numerical t
 
 08h30 - 09h10: Outreach talk: La dilatación del tiempo en la relatividad especial de Albert Einstein: conferencia teórico experimental (Nelson Herrera, UIDE)
 
-09h10 - 10h40: UIDE Laboratory Tour
+09h10 - 10h40: UIDE Campus & Laboratory Tour
 
 •⁠ ⁠Tour around the Technical Sciences facilities.
 
@@ -123,7 +124,7 @@ In this session, we will delve into the intricate world of programming a neural 
 
 13h00 - 14h30: Lunch Break
 
-14h30 - 15h10: Plenary Talk: Explorando el desempeño del aprendizaje profundo en física de altas energías (Daniela Merizalde, USFQ)
+14h30 - 15h10: Plenary Talk (Best TICEC 2023 Paper Prize): Explorando el desempeño del aprendizaje profundo en física de altas energías (Daniela Merizalde, USFQ)
 
 Los datos en física de altas energías tienen un volumen inmenso y son complejos. Los algoritmos de aprendizaje automático pueden ofrecer una solución prometedora para el análisis de estos datos. Por tanto, esta investigación evaluó el rendimiento de las redes neuronales convolucionales para clasificar el resultado de las colisiones de partículas de de altas energías utilizando los datos del Portal de Datos Abiertos del CERN.
 
