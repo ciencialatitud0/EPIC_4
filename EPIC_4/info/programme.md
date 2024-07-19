@@ -227,14 +227,6 @@ Short biography: Ph. D: Instituto Venezolano de Investigaciones Cientificas IVIC
 
 I am a mathematical engineer working on theoretical approaches for modelling spatio-temporal non-gaussian data. I am particularly interested in working on the theoretical and methodological development of space-time stochastic models for non-Gaussian data. I completed an undergraduate program in mathematical engineering at Escuela Politécnica Nacional in Quito-Ecuador. Then, I worked as a researcher and statistician in public and private companies in Ecuador for a few years. In the beginning of 2022, I obtained a Ph.D. degree in Statistics at the Department of Statistics of Pontificia Universidad Católica de Chile. As a doctoral researcher under the supervision of Prof. Mauricio Castro and Prof. Moreno Bevilacqua, I was working on developing novel approaches for modelling spatial and spatio-temporal count data. Additionally, I was part of the Center for the Discovery of Structures in Complex Data MiDas as a PhD student and guest researcher at the Department of Biology at the University of Konstanz. Currently, I am a research professor at Yachay Tech University.
 
-### Wladimir Banda-Barragán, Universidad Yachay Tech
-
-<img src="https://github.com/user-attachments/assets/5db112d0-27f1-496b-b65e-ac8879d4b068" alt="drawing" height="250"/>
-
-Wladimir is a computational astrophysicist working at the boundary between astrophysical gas dynamics and magnetohydrodynamics. Wladimir did his undergraduate studies at the Physics Department of Escuela Politécnica Nacional in Quito, and completed his PhD at the Research School of Astronomy and Astrophysics of the Australian National University in Canberra.
-
-Wladimir has worked as a physics lecturer and astrophysics researcher at several institutes, including Ecuador’s Meteorology Office (INAMHI), Observatorio Astronómico de Quito, Universidad Técnica de Ambato, the Australian National University in Canberra, Hamburg Observatory of Hamburg University, and more recently he joined Universidad Yachay Tech in Urcuquí.
-
 ### Helga Dénes, Universidad Yachay Tech
 
 <img src="https://github.com/user-attachments/assets/26016cc2-4515-4055-84a5-f54f149f7f8e" alt="drawing" height="250"/>
@@ -248,3 +240,9 @@ Helga’s main scientific interest is how the gas content of galaxies influences
 <img src="https://github.com/user-attachments/assets/5b43e442-fc15-4021-ace9-b4304f7bfdc2" alt="drawing" height="250"/>
 
 Nelson Herrera Aráuz nació en Quito octubre de 1950. Estudios secundarios Colegio Central Técnico estudios superiores en Ingeniería Electrónica en la Escuela Politécnica Nacional; Estudios de Mathematica Pura, en la Escuela de Ciencias, de la Universidad Central del Ecuador, Electromecánica; Instituto José Antonio Echeverria La Habana Cuba, Física Universidad de Montpellier Francia. Investigaciones y experiencias científicas en Praga y Varsovia. Estudio teórico - experimentales documentado sobre fenómenos y perturbaciones magnéticas causadas por el eclipse solar del 11 de julio de 1991. Profesor Emérito en Cátedra sustentada por 25 años a la fecha de Matemáticas, Física y Circuitos Digitales en la Escuela de Ingeniería mecánica automotriz, de la Universidad International del Ecuador.
+
+### Wladimir Banda-Barragán, Universidad Yachay Tech
+
+<img src="https://github.com/user-attachments/assets/5db112d0-27f1-496b-b65e-ac8879d4b068" alt="drawing" height="250"/>
+
+Wladimir is a computational astrophysicist working at the boundary between astrophysical gas dynamics and magnetohydrodynamics. Wladimir did his undergraduate studies at the Physics Department of Escuela Politécnica Nacional in Quito, and completed his PhD at the Research School of Astronomy and Astrophysics of the Australian National University in Canberra. Wladimir has worked as a physics lecturer and astrophysics researcher at several institutes, including Ecuador’s Meteorology Office (INAMHI), Observatorio Astronómico de Quito, Universidad Técnica de Ambato, the Australian National University in Canberra, Hamburg Observatory of Hamburg University, and more recently he joined Universidad Yachay Tech in Urcuquí.
