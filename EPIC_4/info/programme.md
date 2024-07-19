@@ -178,18 +178,7 @@ In this work, we solve the Duffin--Kemmer--Petiau (DKP) equation in the presence
 
 <img src="https://github.com/ciencialatitud0/EPIC_4/assets/30240951/d8a48fa5-a24f-4818-8b9d-65c48a18443f" alt="drawing" height="250"/>
 
-BSc in Physics from the Escuela Politécnica Nacional (EPN), Ecuador, in 2010.
-
-Master's Degree in Nanostructured Materials for Nanotechnological Applications from the University of Zaragoza, Spain, in 2012.
-
-Ph.D, Cum Laude, in Physical Chemistry from the University of Zaragoza, Spain, in 2015.
-
-Since 2016, Assistant professor in the Department of Physics at Escuela Politécnica Nacional and member of the electronic and magnetic materials group (GI-MEM), Department of Physics at Escuela Politécnica Nacional.
-
-Current research interest is mainly focused on the study of electrical properties of two-dimensional materials, individual molecules and molecular assemblies using tunnel effect microscopy and atomic force microscopy.
-
-Research in collaboration with International Laboratories such as the Institute of Nanoscience and Materials of Aragón (INMA), Spain, and the Department of Chemistry of the University of Liverpool, United Kingdom.
-
+BSc in Physics from the Escuela Politécnica Nacional (EPN), Ecuador, in 2010. Master's Degree in Nanostructured Materials for Nanotechnological Applications from the University of Zaragoza, Spain, in 2012. Ph.D, Cum Laude, in Physical Chemistry from the University of Zaragoza, Spain, in 2015. Since 2016, Assistant professor in the Department of Physics at Escuela Politécnica Nacional and member of the electronic and magnetic materials group (GI-MEM), Department of Physics at Escuela Politécnica Nacional. Current research interest is mainly focused on the study of electrical properties of two-dimensional materials, individual molecules and molecular assemblies using tunnel effect microscopy and atomic force microscopy. Research in collaboration with International Laboratories such as the Institute of Nanoscience and Materials of Aragón (INMA), Spain, and the Department of Chemistry of the University of Liverpool, United Kingdom.
 
 ### Daniela Merizalde, Universidad San Francisco de Quito
 
@@ -206,7 +195,6 @@ Benjamin de Zayas is a nuclear physicist with experience in medical physics. He 
 ### Fernanda Paulina Vizcaíno Imacaña, UIDE
 
 <img src="https://github.com/user-attachments/assets/8b184b93-aabf-4954-85da-a98de5fdbd84" alt="drawing" height="250"/>
-
 
 Líder de la Escuela de Ciencias de la Computación de la UIDE con un profundo interés en la intersección entre la tecnología y el aprendizaje. Con un doctorado en Educación y una formación inicial como ingeniera informática, tiene interés en los campos cómo la programación, la ciencia de datos y la inteligencia artificial aplicada.
 
@@ -253,3 +241,9 @@ Wladimir has worked as a physics lecturer and astrophysics researcher at several
 Helga Dénes has a Masters degree in Astronomy from the Eötwös Lórand University in Budapest, Hungary. She obtain her PhD in Astrophysics in 2015 from Swinburne University of Technology in Melbourne, Australia. She has been a postdoctoral researcher at CSIRO Astronomy and Space Science in Sydney, and at ASTRON, The Netherlands Institute for Radio Astronomy. At the moment she is a Professor at Yachay Tech University in the School of Physical Sciences and Nanotechnology.
 
 Helga’s main scientific interest is how the gas content of galaxies influences their evolution. She works on both extragalactic and Galactic astrophysics topics and is a member of several large radio astronomy survey teams, such as the Apertif Imaging Surveys, the WALLABY Survey and the GASKAP Survey.
+
+### Nelson Herrera, UIDE
+
+<img src="https://github.com/user-attachments/assets/5b43e442-fc15-4021-ace9-b4304f7bfdc2" alt="drawing" height="250"/>
+
+Nelson Herrera Aráuz nació en Quito octubre de 1950. Estudios secundarios Colegio Central Técnico estudios superiores en Ingeniería Electrónica en la Escuela Politécnica Nacional; Estudios de Mathematica Pura, en la Escuela de Ciencias, de la Universidad Central del Ecuador, Electromecánica; Instituto José Antonio Echeverria La Habana Cuba, Física Universidad de Montpellier Francia. Investigaciones y experiencias científicas en Praga y Varsovia. Estudio teórico - experimentales documentado sobre fenómenos y perturbaciones magnéticas causadas por el eclipse solar del 11 de julio de 1991. Profesor Emérito en Cátedra sustentada por 25 años a la fecha de Matemáticas, Física y Circuitos Digitales en la Escuela de Ingeniería mecánica automotriz, de la Universidad International del Ecuador.
