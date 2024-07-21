@@ -3,7 +3,7 @@
 This is an introduction to image analysis of biological images (i.e. microscopy images) using deep learning.
 
 Please create a local copy of the code and required files by cloning the repository:
-$ git clone https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis.git
+$ git clone https://github.com/ciencialatitud0/EPIC_4.git
 
 We will use python 3.x (as python2 is not supported anymore). Similarly, we will mainly use jupyter notebooks (.ipynb) for the courses taught at this course.
 
@@ -17,7 +17,7 @@ To be able to use python and jupyter notebooks in your laptop, there are several
 
 **Important Note: We highly recommend this option for participants with little programming experience.**
 
-One option is to use Google Colab, for which you would need a Google account, which can be a personal gmail account or an institutional email account supported by Google (e.g. all Yachay Tech accounts are Google accounts). The advantage of using Google Colab is that all libraries are installed in a Linux server remotely, so we don't need to worry about compatibility issues, different operating systems, etc. The disadvantage is that Colab provides limited memory and computing resources as everything runs in a cloud, so you can only use it to process small datasets.
+One option is to use Google Colab, for which you would need a Google account, which can be a personal gmail account or an institutional email account supported by Google. The advantage of using Google Colab is that all libraries are installed in a Linux server remotely, so we don't need to worry about compatibility issues, different operating systems, etc. The disadvantage is that Colab provides limited memory and computing resources as everything runs in a cloud, so you can only use it to process small datasets.
 
 
 1. Log into your Google account.
@@ -41,7 +41,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
 ### 1. Introduction to Digital Images
 - Brief intro to digital images
 
-	* [Intro_DigitalImages.ipynb](/code/Intro_DigitalImages.ipynb)
+	* [Intro_DigitalImages.ipynb](./code/Intro_DigitalImages.ipynb)
 	* GoogleColab:
  		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Intro_DigitalImages.ipynb)
  
