@@ -1,10 +1,10 @@
-# BioImage processing using Python
+# Introduction to Deep Learning for Bioimage Analysis
 
-This class is an introduction to image analysis of biological images (i.e. microscopy images).
+This is an introduction to image analysis of biological images (i.e. microscopy images) using deep learning.
 
 Please create a local copy of the code and required files by cloning the repository:
-$ git clone https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis.git
-
+$ git clone [https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis.git
+](https://github.com/ciencialatitud0/EPIC_4.git)
 We will use python 3.x (as python2 is not supported anymore). Similarly, we will mainly use jupyter notebooks (.ipynb) for the courses taught at this course.
 
 - Jupyter notebooks are very useful tools for learning programming because they provide a nice visual and interactive interface.
