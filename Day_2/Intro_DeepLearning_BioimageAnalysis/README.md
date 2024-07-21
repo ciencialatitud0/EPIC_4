@@ -43,31 +43,31 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 	* [0_Intro_DigitalImages.ipynb](./code/0_Intro_DigitalImages.ipynb)
 	* GoogleColab:
- 		[![Open In Colab](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/0_Intro_DigitalImages.ipynb)
+ 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/0_Intro_DigitalImages.ipynb)
  
 ### 1. Noise Removal using Autoencoders
 - Short description
 	* [1_NoiseRemoval_Autoencoders.ipynb](./code/1_NoiseRemoval_Autoencoders.ipynb)
 	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/1_NoiseRemoval_Autoencoders.ipynb)
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/1_NoiseRemoval_Autoencoders.ipynb)
 
 ### 2. Image Segmentation using UNet
 - Short description
 	* [2_ImageSegmentation_UNet.ipynb](./code/2_ImageSegmentation_UNet.ipynb)
 	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/2_ImageSegmentation_UNet.ipynb)
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/2_ImageSegmentation_UNet.ipynb)
 
 ### 3. ObjectDetection using YOLO
 - Short description
 	* [3_ObjectDetection_YOLO.ipynb](./code/3_ObjectDetection_YOLO.ipynb)
 	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/3_ObjectDetection_YOLO.ipynb)
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/3_ObjectDetection_YOLO.ipynb)
 
 ### 4. ImageClassification using ResNet
 - Short description
 	* [4_ImageClassification_ResNet.ipynb](./code/4_ImageClassification_ResNet.ipynb)
 	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/4_ImageClassification_ResNet.ipynb)
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/4_ImageClassification_ResNet.ipynb)
 
 
 ## Disclaimer
