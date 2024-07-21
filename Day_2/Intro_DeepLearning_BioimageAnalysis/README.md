@@ -38,25 +38,37 @@ One option is to use Google Colab, for which you would need a Google account, wh
  	- Open a jupyter notebook
  	$ jupyter notebook
 
-### 1. Introduction to Digital Images
+### 0. Introduction to Digital Images
 - Brief intro to digital images
 
-	* [Intro_DigitalImages.ipynb](./code/Intro_DigitalImages.ipynb)
+	* [0_Intro_DigitalImages.ipynb](./code/0_Intro_DigitalImages.ipynb)
 	* GoogleColab:
- 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Intro_DigitalImages.ipynb)
+ 		[![Open In Colab](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/0_Intro_DigitalImages.ipynb)
  
- 
-### 3. BioImage Analysis with Python
-
-- It is a step by step pipeline for segmenting cells in 2D fluorescence microscopy images (with labeled membranes)
-	* [Image_analysis_tutorial.ipynb](Image_analysis_tutorial.ipynb)
+### 1. Noise Removal using Autoencoders
+- Short description
+	* [1_NoiseRemoval_Autoencoders.ipynb](./code/1_NoiseRemoval_Autoencoders.ipynb)
 	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Image_analysis_tutorial.ipynb)
+	[![Open In Colab](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/1_NoiseRemoval_Autoencoders.ipynb)
 
-- It is a step by step pipeline for segmenting cells in 3D fluorescence microscopy images (with labeled nuclei and membranes)
-	* [Image_analysis_tutorial_3D.ipynb](Image_analysis_tutorial_3D.ipynb)
+### 2. Image Segmentation using UNet
+- Short description
+	* [2_ImageSegmentation_UNet.ipynb](./code/2_ImageSegmentation_UNet.ipynb)
 	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Image_analysis_tutorial_3D.ipynb)
+	[![Open In Colab](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/2_ImageSegmentation_UNet.ipynb)
+
+### 3. ObjectDetection using YOLO
+- Short description
+	* [3_ObjectDetection_YOLO.ipynb](./code/3_ObjectDetection_YOLO.ipynb)
+	* GoogleColab:
+	[![Open In Colab](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/3_ObjectDetection_YOLO.ipynb)
+
+### 4. ImageClassification using ResNet
+- Short description
+	* [4_ImageClassification_ResNet.ipynb](./code/4_ImageClassification_ResNet.ipynb)
+	* GoogleColab:
+	[![Open In Colab](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/4_ImageClassification_ResNet.ipynb)
+
 
 ## Disclaimer
 - These materials have been adapted from the original versions: 
