@@ -57,13 +57,13 @@ One option is to use Google Colab, for which you would need a Google account, wh
 	* GoogleColab:
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/2_ImageSegmentation_UNet.ipynb)
 
-### 3. ObjectDetection using YOLO
+### 3. Object Detection using YOLO
 - Short description
 	* [3_ObjectDetection_YOLO.ipynb](./code/3_ObjectDetection_YOLO.ipynb)
 	* GoogleColab:
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/3_ObjectDetection_YOLO.ipynb)
 
-### 4. ImageClassification using ResNet
+### 4. Image Classification using ResNet
 - Short description
 	* [4_ImageClassification_ResNet.ipynb](./code/4_ImageClassification_ResNet.ipynb)
 	* GoogleColab:
