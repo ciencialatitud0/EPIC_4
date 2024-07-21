@@ -3,8 +3,8 @@
 This is an introduction to image analysis of biological images (i.e. microscopy images) using deep learning.
 
 Please create a local copy of the code and required files by cloning the repository:
-$ git clone [https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis.git
-](https://github.com/ciencialatitud0/EPIC_4.git)
+$ git clone https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis.git
+
 We will use python 3.x (as python2 is not supported anymore). Similarly, we will mainly use jupyter notebooks (.ipynb) for the courses taught at this course.
 
 - Jupyter notebooks are very useful tools for learning programming because they provide a nice visual and interactive interface.
@@ -38,16 +38,10 @@ One option is to use Google Colab, for which you would need a Google account, wh
  	- Open a jupyter notebook
  	$ jupyter notebook
 
-### 1. Basic programming with Python
-- Introduction to prgramming in Python
-	* [Basic_Programming_with_Python.ipynb](Basic_Programming_with_Python.ipynb)
-	* GoogleColab:
- 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Basic_Programming_with_Python.ipynb)
-
-### 2. Introduction to Digital Images
+### 1. Introduction to Digital Images
 - Brief intro to digital images
 
-	* [Intro_DigitalImages.ipynb](Intro_DigitalImages.ipynb)
+	* [Intro_DigitalImages.ipynb](/code/Intro_DigitalImages.ipynb)
 	* GoogleColab:
  		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Intro_DigitalImages.ipynb)
  
