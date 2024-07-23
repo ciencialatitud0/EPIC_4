@@ -70,6 +70,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/3_ObjectDetection_YOLO.ipynb)
 
 
+
 ## Disclaimer
 - These materials have been adapted from the original versions: 
     - "Python BioImage Analysis Tutorial:" https://github.com/WhoIsJack/python-bioimage-analysis-tutorial
