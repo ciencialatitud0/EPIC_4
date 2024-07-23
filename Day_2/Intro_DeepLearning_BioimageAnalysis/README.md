@@ -71,7 +71,6 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 
 
-
 ## Disclaimer
 - These materials have been adapted from the original versions: 
     - "Python BioImage Analysis Tutorial:" https://github.com/WhoIsJack/python-bioimage-analysis-tutorial
