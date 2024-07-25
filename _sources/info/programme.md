@@ -129,6 +129,10 @@ Los datos en física de altas energías tienen un volumen inmenso y son complejo
 
 15h10 - 15h50: Plenary Talk: La ruta de la Ciberseguridad ¿Qué camino puedo seguir? Daniel Tenorio (BSmart)
 
+![bsmart](https://github.com/user-attachments/assets/8b94cdc7-80cc-4def-b06a-de48fc7262d9)
+
+https://www.bsmart.ec
+
 15h50 - 17h00: Dorothy Coding Challenge
 
 
