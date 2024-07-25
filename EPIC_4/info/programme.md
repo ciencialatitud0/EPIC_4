@@ -127,7 +127,7 @@ In this session, we will delve into the intricate world of programming a neural 
 
 Los datos en física de altas energías tienen un volumen inmenso y son complejos. Los algoritmos de aprendizaje automático pueden ofrecer una solución prometedora para el análisis de estos datos. Por tanto, esta investigación evaluó el rendimiento de las redes neuronales convolucionales para clasificar el resultado de las colisiones de partículas de de altas energías utilizando los datos del Portal de Datos Abiertos del CERN.
 
-15h10 - 15h50: Plenary Talk: Data visualisation (Iván Reyes, UIDE)
+15h10 - 15h50: Plenary Talk: La ruta de la Ciberseguridad ¿Qué camino puedo seguir? Daniel Tenorio (BSmart)
 
 15h50 - 17h00: Dorothy Coding Challenge
 
