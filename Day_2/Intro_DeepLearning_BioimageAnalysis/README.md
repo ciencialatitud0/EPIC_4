@@ -57,6 +57,11 @@ One option is to use Google Colab, for which you would need a Google account, wh
 	* GoogleColab:
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/2_ImageSegmentation_UNet.ipynb)
 
+### 3. Image Classification using CNN
+- Short description
+	* [2_ImageSegmentation_UNet.ipynb](./code/4_Retina_classification_using_CNN.ipynb)
+	* GoogleColab:
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/4_Retina_classification_using_CNN.ipynb)
 ## Disclaimer
 - These materials have been adapted from the original versions: 
     - "Python BioImage Analysis Tutorial:" https://github.com/WhoIsJack/python-bioimage-analysis-tutorial
