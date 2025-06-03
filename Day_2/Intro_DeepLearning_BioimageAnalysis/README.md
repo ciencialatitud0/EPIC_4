@@ -59,7 +59,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 ### 3. Image Classification using CNN
 - Short description
-	* [2_ImageSegmentation_UNet.ipynb](./code/4_Retina_classification_using_CNN.ipynb)
+	* [4_Retina_classification_using_CNN.ipynb](./code/4_Retina_classification_using_CNN.ipynb)
 	* GoogleColab:
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/4_Retina_classification_using_CNN.ipynb)
 ## Disclaimer
